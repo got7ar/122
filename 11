@@ -434,3 +434,9 @@ https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lsda
 #KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd?encoding=segmentBase
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeT4u1nAktEXfgIZwAfNRX4p1V92nn7ivtPBKnpSGBIzqiusuAPbfpNSRANU0ENBJEmp1vFnZyLpUbBCebg9ya400a-62HRackCrUXKV-j1dUMPqRi2OB8ONfz__XPi8C5NG8bbpuYmamrJZGqmbqdMNpF58uLIopuoHnSk8fVpTopJxVSvR3Tqc7_a_K9/s700/DAZN%201.png" group-title="DAZN",DAZN 1 DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c900a7eae0097e0977141b68c9bffc4:fa534e6d48eccf905a449051a5e280c8
+https://a122aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/k2dcwnlpgr/out/v1/0502dc73a24b43a79c042bf2d14f6b84/cenc.mpd
