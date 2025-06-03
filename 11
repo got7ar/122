@@ -440,3 +440,25 @@ https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pc
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c900a7eae0097e0977141b68c9bffc4:fa534e6d48eccf905a449051a5e280c8
 https://a122aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/k2dcwnlpgr/out/v1/0502dc73a24b43a79c042bf2d14f6b84/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN.tv" tvg-name="DAZN.tv" tvg-logo="https://i.ibb.co/3kJG4tH/dazn.png" ch-number="4",DAZN
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-581/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN.tv" tvg-name="DAZN.tv" tvg-logo="https://i.ibb.co/3kJG4tH/dazn.png" ch-number="5",DAZN
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-582/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN.tv" tvg-name="DAZN.tv" tvg-logo="https://i.ibb.co/3kJG4tH/dazn.png" ch-number="6",DAZN
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-580/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN.tv" tvg-name="DAZN.tv" tvg-logo="https://i.ibb.co/3kJG4tH/dazn.png" ch-number="7",DAZN
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-583/stream.mpd
+
+
