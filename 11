@@ -461,4 +461,9 @@ https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-580/stream.mpd
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN.tv" tvg-name="DAZN.tv" tvg-logo="https://i.ibb.co/3kJG4tH/dazn.png" ch-number="7",DAZN
 https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-583/stream.mpd
 
-
+#EXTINF:-1 tvg-id="Italia 1 HD.it" tvg-logo="https://iili.io/d93wOtS.png" group-title="ITALY",Italia 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587
+https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd
