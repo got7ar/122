@@ -168,3 +168,10 @@ https://dcb-fl-live.dtcdn.dazn.com/hg9n6loge2dj10yiee9w1csmu/web/stream.mpd?chan
 
 #EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-id="CAZÉTV.tv" tvg-name="conect" tvg-logo="https://i.ibb.co/yBxFktW2/GHMKASZKH5-FATO6-MMTEH2-EREPY.jpg" ch-number="37", عربي 
 https://dcb-fl-live.dtcdn.dazn.com/1roqvm2emi2ic1sk5hh4xqsloc/tv25f/stream.mpd?channel=2650&outlet=dazn-mena&plang=ar
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/mbc_ac11.png",MBC ACTION
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=61500ce9a45342b897ba868f4fc59910:93a1c516e6b4fc91fa88c59922f6d3d7
+https://shls-mbcaction-prod-dub-enc.edgenextcdn.net/out/v1/8732f5132b274000bd59aee64255241c/index.mpd
