@@ -599,3 +599,6 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pl_sdi7.mpd
 #KODIPROP:inputstream.adaptive.license_key=5a8dbf3b9c2c43079a40fb5d0068f9ef:1778ac6e22527ee2efd6886d8d509c2d
 #EXTINF:-1 group-title="AVC live" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/avc.jpg",AVC live 8
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/pl_sdi8.mpd
+
+#EXTINF:-1 group-title="ASTRO SPORTS" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/astro.jpg",AstroGrandstand
+https://wahyu1ptv.pages.dev/AstroGrandStand-HD.m3u8
