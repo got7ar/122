@@ -602,3 +602,140 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/pl_sdi8.mpd
 
 #EXTINF:-1 group-title="ASTRO SPORTS" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/astro.jpg",AstroGrandstand
 https://wahyu1ptv.pages.dev/AstroGrandStand-HD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2db8ec9fcc1bf1cebb260800bbff5d1d:31d4a7d5a32bb635b11bbc929f75bcba
+#EXTINF:-1 group-title="OPTUS SPORT" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/optus.jpg",OPTUS SPORT 1 HD
+https://optus.apigateway.web.id/optus/v7/OptusSport1/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=33b53c1b0da6767644880f1fb643816e:4f6f753134fa24314e611973432e124d
+#EXTINF:-1 group-title="OPTUS SPORT" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/optus.jpg",OPTUS SPORT 2 HD
+https://optus.apigateway.web.id/optus/v7/OptusSport2/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6b2c1aa0db912dbbcd5d0dc12821e10:ed03a87a8910e7737db55b164e7f0351
+#EXTINF:-1 group-title="OPTUS SPORT" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/optus.jpg",OPTUS SPORT 3 HD
+https://optus.apigateway.web.id/optus/v7/OptusSport3/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d3774467bf77893b5a4895b363fd64c3:79f8e69317e4c13bd9667e2f43a6c60d
+#EXTINF:-1 group-title="OPTUS SPORT" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/optus.jpg",OPTUS SPORT 4 HD
+https://optus.apigateway.web.id/optus/v7/OptusSport4/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=446084cc113687c9e4bec85890096589:e8c57936c8137bf7c0060f21c1dbe999
+#EXTINF:-1 group-title="OPTUS SPORT" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/optus.jpg",OPTUS SPORT 5 HD
+https://optus.apigateway.web.id/optus/v7/OptusSport5/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40bc0ea19e2427776032e782e62d7dfc:816033a4ba5e1484866768c4c1edb9e7
+#EXTINF:-1 group-title="OPTUS SPORT" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/optus.jpg",OPTUS SPORT 6 HD
+https://optus.apigateway.web.id/optus/v7/OptusSport6/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b70ffd90c21839cff64da347ff65a42:944a0a3f8a7475ec9ed79caa57a241a2
+#EXTINF:-1 group-title="OPTUS SPORT" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/optus.jpg",OPTUS SPORT 7 HD
+https://optus.apigateway.web.id/optus/v7/OptusSport7/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4fc592480df393a038be32d137d991ef:47809adce3b46ae03f652bf18ed81b40
+#EXTINF:-1 group-title="OPTUS SPORT" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/optus.jpg",OPTUS SPORT 8 HD
+https://optus.apigateway.web.id/optus/v7/OptusSport8/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94bd14876689a529516017e35638d51a:32b1813bc43d17d6623a306a9513bb7a
+#EXTINF:-1 group-title="OPTUS SPORT" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/optus.jpg",Optus Sport 11 Premier League Channel
+https://optus.apigateway.web.id/optus/v7/OptusSport11/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d5bff31e797c41fc8254ec6697cbf866:bc4b3c6dd1dd5b9b5f2e23230e334609
+#EXTINF:-1 group-title="OPTUS SPORT" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/optus.jpg",Optus Sport 402
+https://optus.apigateway.web.id/optus/v7/OptusSport402/ip/drm/avc/dash/plain/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4519aa4416f3488aa6a1d427c2948cad:d252a4a506ae464e990ad43e9ebf5408
+#EXTINF:-1 group-title="OPTUS SPORT" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/optus.jpg",Optus Sport 403
+https://optus.apigateway.web.id/optus/v7/OptusSport403/ip/drm/avc/dash/plain/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ebfeae2f8bd542e2a3d3a1048f7aab4e:c923bad117b1a4fb622bf9e03d56c6ec
+#EXTINF:-1 group-title="OPTUS SPORT" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/optus.jpg",Optus Sport 404
+https://optus.apigateway.web.id/optus/v7/OptusSport404/ip/drm/avc/dash/plain/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=86e024c16b0c4dedb67b5065e4d03d60:6f8d60b5e39c5ee282bb040572f66e86
+#EXTINF:-1 group-title="OPTUS SPORT" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/optus.jpg",Optus Sport 405
+https://optus.apigateway.web.id/optus/v7/OptusSport405/ip/drm/avc/dash/plain/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09e3d85758d34aaab97390163c95d03b:22d8a986071d2950a2750a039e1761f8
+#EXTINF:-1 group-title="OPTUS SPORT" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/optus.jpg",Optus Sport 406
+https://optus.apigateway.web.id/optus/v7/OptusSport406/ip/drm/avc/dash/plain/manifest.mpd
+
+
+#EXTINF:-1 group-title="ASTRO SPORTS" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/astro.jpg",EPL LIVE 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.1; en-US; Nexus 6 Build/LMY47Z) MXPlayer/1.7.39
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
+http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/5108/default_ott.mpd
+
+#EXTINF:-1 group-title="ASTRO SPORTS" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/astro.jpg",EPL LIVE 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.1; en-US; Nexus 6 Build/LMY47Z) MXPlayer/1.7.39
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3225f837a4b95d6e46683c53818c1710:3e1b57c06699c7e408e7aa49ff57d4f4
+http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/5111/default_ott.mpd
+
+#EXTINF:-1 group-title="ASTRO SPORTS" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/astro.jpg",EPL LIVE 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.1; en-US; Nexus 6 Build/LMY47Z) MXPlayer/1.7.39
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=229670469469aa6f78bc5bbe10071810:3b3ede68e8bb9d0d4e3b4517c422cccf
+http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/5113/default_ott.mpd
+
+#EXTINF:-1 group-title="ASTRO SPORTS" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/astro.jpg",EPL 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.1; en-US; Nexus 6 Build/LMY47Z) MXPlayer/1.7.39
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
+http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/601/default_ott.mpd
+
+#EXTINF:-1 group-title="ASTRO SPORTS" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/astro.jpg",EPL 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.1; en-US; Nexus 6 Build/LMY47Z) MXPlayer/1.7.39
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
+http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/2701/default_ott.mpd
+
+#EXTINF:-1 group-title="ASTRO SPORTS" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/astro.jpg",ASTRO SPORTS UHD IC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ac8b2f7af05ad829805345a517bc110:ee1ae1cd086fa9bfc0505e6d5e9e27e9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Mobile/14E304 Safari/605.1.15
+http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/1600/default_ott.mpd
+
+#EXTINF:-1 group-title="ASTRO SPORTS" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/astro.jpg",ASTRO BADMINTON IC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Mobile/14E304 Safari/605.1.15
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ff0e040d544ec3f02243865990f0c10:83728b47019abdbb37aa36ed5f2951bd
+#https://icecream.jasoncreak8.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5170/default_ott.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEnjQyhyFYJr5fs1TFF79aFh6pWnZh74VpWeDe58H-ArgO-DDMQ6UFjKlP&s=10" group-title="ASTRO SPORTS",ASTRO FOOTBALL IC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Mobile/14E304 Safari/605.1.15
+#https://icecream.jasoncreak8.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEnjQyhyFYJr5fs1TFF79aFh6pWnZh74VpWeDe58H-ArgO-DDMQ6UFjKlP&s=10" group-title="ASTRO SPORTS",ASTRO ARENA 1 IC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Mobile/14E304 Safari/605.1.15
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
+#https://icecream.jasoncreak8.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEnjQyhyFYJr5fs1TFF79aFh6pWnZh74VpWeDe58H-ArgO-DDMQ6UFjKlP&s=10" group-title="ASTRO SPORTS",ASTRO ARENA 2 IC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Mobile/14E304 Safari/605.1.15
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
+#https://icecream.jasoncreak8.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEnjQyhyFYJr5fs1TFF79aFh6pWnZh74VpWeDe58H-ArgO-DDMQ6UFjKlP&s=10" group-title="ASTRO SPORTS",ASTRO SPORT PLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Mobile/14E304 Safari/605.1.15
+#KODIPROP:inputstream.adaptive.license_key=81352bc47ec1177b321ee65ac1be7f10:c8b886142005d7e5067c8717777eaac4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#https://icecream.jasoncreak8.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_ott.mpd
