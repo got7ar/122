@@ -549,3 +549,13 @@ https://uselector.cdn.intigral-ott.net/STC/STC.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e74c7d697bd26595b196c6b96e2d4f5b:e288110233737502e8af9184098ab50b
 https://uselector.cdn.intigral-ott.net/JAW1/JAW1.isml/manifest.mpd
+
+#EXTINF:-1 group-title="SPORTS🏅" tvg-id="s t c " tvg-logo="https://i.ibb.co.com/G37Y21X/ssc1.png", s t c 1  🇸🇦
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47f0ab58f5a81c20b5b69dc494cbe102:1e0719da653c2b4652f0b0bf84d96c74
+https://uselector.cdn.intigral-ott.net/STC/STC.isml/manifest.mpd
+
+#EXTINF:-1 group-title="SPORTS🏅" tvg-id="s t c " tvg-logo="https://i.ibb.co.com/G37Y21X/ssc1.png", s t c 2  🇸🇦
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e74c7d697bd26595b196c6b96e2d4f5b:e288110233737502e8af9184098ab50b
+https://uselector.cdn.intigral-ott.net/JAW1/JAW1.isml/manifest.mpd
