@@ -829,3 +829,55 @@ https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/560505/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0
 https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561402/index.mpd
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h9SQfNv/mpluslaligatv.png" group-title="SPORTS🏅",M+ LALIGA TV 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
+https://live12-dash.cdns.cdn.orangetv.orange.es/RueE_1yWXSyuomYWfrAQWA/1685098167/85849807/112457707/76/cmaf/r12_mlaliga/dash_medium.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h9SQfNv/mpluslaligatv.png" group-title="SPORTS🏅",M+ LALIGA 2 TV 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=61e9a16fd7fa4679cb51c81fcaa8729f:92999f97ff4ee6ec52a60d490fb3f14c
+https://live12-dash.cdns.cdn.orangetv.orange.es/50b2-gooyeieKBCBtbALhA/1685098382/85849807/112457707/75/cmaf/r12_mlaliga2/dash_medium.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h9SQfNv/mpluslaligatv.png" group-title="SPORTS🏅",M+ LALIGA 3 TV 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
+https://live12-dash.cdns.cdn.orangetv.orange.es/8YM1Ns82Fqqx0u9wOG8U7w/1685098419/85849807/112457707/79/cmaf/r12_mlaliga3/dash_medium.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h9SQfNv/mpluslaligatv.png" group-title="SPORTS🏅",M+ LALIGA 4 TV 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
+https://live12-dash.cdns.cdn.orangetv.orange.es/rll917nhw3FONHmjN81nIQ/1685098455/85849807/112457707/80/cmaf/r12_mlaliga4/dash_medium.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PjtWH4q/ligadecampeonesmplus.png" group-title="SPORTS🏅",M+ Liga de Campeones 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
+https://live12-dash.cdns.cdn.orangetv.orange.es/hpVkPAjFFpE3JSIKY3SY-Q/1727923395/104469517/132089857/87/cmaf/r12_mcampeones/dash_high.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PjtWH4q/ligadecampeonesmplus.png" group-title="SPORTS🏅",M+ Liga de Campeones 2 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
+https://live12-dash.cdns.cdn.orangetv.orange.es/iq4WJaz32_VUr7xNQ9equw/1727923395/104469517/132089857/88/cmaf/r12_mcampeones2/dash_high.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PjtWH4q/ligadecampeonesmplus.png" group-title="SPORTS🏅",M+ Liga de Campeones 3 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
+https://live12-dash.cdns.cdn.orangetv.orange.es/hIo7AqcPvXoBBT-GveJOBQ/1685098644/85849807/112457707/89/cmaf/r12_mcampeones3/dash_medium.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PjtWH4q/ligadecampeonesmplus.png" group-title="SPORTS🏅",M+ Liga de Campeones 4 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
+https://live12-dash.cdns.cdn.orangetv.orange.es/LPiBnCNlRRhBrTBhb2g2_g/1685098730/85849807/112457707/90/cmaf/r12_mcampeones4/dash_medium.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PjtWH4q/ligadecampeonesmplus.png" group-title="SPORTS🏅",M+ Liga de Campeones 5 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
+https://live12-dash.cdns.cdn.orangetv.orange.es/OLkJsl8kjz_zmLTZ6yehxQ/1727923404/104469517/132089857/91/cmaf/r12_mcampeones5/dash_high.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PjtWH4q/ligadecampeonesmplus.png" group-title="SPORTS🏅",M+ Liga de Campeones 6 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
+https://live12-dash.cdns.cdn.orangetv.orange.es/r-VxaiNv4ggV7yG757OzXA/1727923404/104469517/132089857/92/cmaf/r12_mcampeones6/dash_high.mpd
+
