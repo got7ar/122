@@ -1260,7 +1260,7 @@ https://g003-lin-it-cmaf-prd-xa.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H
 #KODIPROP:inputstream.adaptive.license_key=11185d4276f70e6931dd5809956345ca:2c11ba43fab9050c1226b2f96a660f77
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://g003-lin-it-cmaf-prd-xa.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportcalcio)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-xa.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel(skysportcalcio)/master_2hr-all.mpd
 
 #EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="SPORT" tvg-name="Sky Sport 251",Sky Sport 251
 #KODIPROP:inputstream.adaptive.file_type=mpd
