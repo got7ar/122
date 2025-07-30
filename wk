@@ -455,14 +455,6 @@ https://cors.jugorder.de/https://linear202-de-dash1-prd-ak.cdn12.skycdp.com/0351
 
 #EXTINF:-1 group-title="VIP Germany", Sky Sport Bundesliga 1
 
-https://cors.jugorder.de/https://linear201-de-dash1-prd-ak.cdn12.skycdp.com/031121-50/index_stereo.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=000bae90050eb69303c736aa44feec31:5cb4e747538e2e234b51b4ef9ab248a4
-
-#EXTINF:-1 group-title="VIP Germany", Sky Sport Bundesliga 1
-
 https://cors.jugorder.de/https://linear205-de-dash1-prd-ak.cdn12.skycdp.com/031122-50/index_stereo.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
