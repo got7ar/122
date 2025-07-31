@@ -1435,3 +1435,55 @@ https://cors.jugorder.de/https://linear205-de-dash1-prd-ak.cdn12.skycdp.com/0311
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
 #KODIPROP:inputstream.adaptive.license_key=000befd7c86292bb122e08bcfc0a06c2:d1cdb3b40de46f75910b2b69ffea9dab
+
+
+
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/abudhabi.s1.png?raw=true" group-title="SPORT",Abu Dhabi Sport 1
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/abudhabi.s2.png?raw=true" group-title="SPORT",Abu Dhabi Sport 2
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/dubai.s1.png?raw=true" group-title="SPORT",Dubai Sport 1
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/dubai.s2.png?raw=true" group-title="SPORT",Dubai Sport 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/dubai.s3.png?raw=true" group-title="SPORT",Dubai Sport 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BpcV8jS.png" group-title="SPORT",Dubai Racing
+https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/H2TTn7t.png" group-title="SPORT",Dubai Racing 2
+https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Vg4fxmc.png" group-title="SPORT",Dubai Racing 3
+https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/sharqa.sport.png?raw=true" group-title="SPORT",Al Sharjah Sport
+https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/sport1.bh.png?raw=true" group-title="SPORT",Bahrain Sport 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/sport2.bh.png?raw=true" group-title="SPORT",Bahrain Sport 2
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/chunklist.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/kuwait.s1.png?raw=true" group-title="SPORT",Kuwait Sport
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/kuwait.s2.png?raw=true" group-title="SPORT",Kuwait Sport 2
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/sport.om.png?raw=true" group-title="SPORT",Oman Sport
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/playllist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alkass1.png?raw=trueg" group-title="SPORT" http-referrer="https://shoof.alkass.net/live?ch=one" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",Al Kass 1
+#EXTVLCOPT:http-referrer=https://shoof.alkass.net/live?ch=one
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1buoi/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alkass2.png?raw=true" group-title="SPORT" http-referrer="https://shoof.alkass.net/live?ch=two" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",Al Kass 2
+#EXTVLCOPT:http-referrer=https://shoof.alkass.net/live?ch=two
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hefazq/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alkass3.png?raw=true" group-title="SPORT" http-referrer="https://shoof.alkass.net/live?ch=three" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",Al Kass 3
+#EXTVLCOPT:http-referrer=https://shoof.alkass.net/live?ch=three
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vakazq/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alkass4.png?raw=true" group-title="SPORT" http-referrer="https://shoof.alkass.net/live?ch=four" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",Al Kass 4
+#EXTVLCOPT:http-referrer=https://shoof.alkass.net/live?ch=four
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4azqa/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/abidm8/iptv.ara/blob/main/img/alkass.shoof.png?raw=true" group-title="SPORT" http-referrer="https://shoof.alkass.net/live?ch=shoof" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",Al Kass SHOOF
+#EXTVLCOPT:http-referrer=https://shoof.alkass.net/live?ch=shoof
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1ab/master.m3u8
+
