@@ -1501,3 +1501,36 @@ https://cors.jugorder.de/https://linear202-de-dash1-prd-ak.cdn12.skycdp.com/0363
 
 #KODIPROP:inputstream.adaptive.license_key=000bd7ca09c1d2ccdb12614b6a7525ed:79ddb65f0cf9bf112c501a1d0d3a62d6
 
+
+#EXTINF:-1 tvg-logo="https://cors.jugorder.de/https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/LaLiga_2023_Horizontal_Logo.svg/2560px-LaLiga_2023_Horizontal_Logo.svg.png" group-title="SPORTS🏅",M+ LALIGA TV 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
+https://cors.jugorder.de/https://live12-dash.cdns.cdn.orangetv.orange.es/RueE_1yWXSyuomYWfrAQWA/1685098167/85849807/112457707/76/cmaf/r12_mlaliga/dash_high.mpd
+
+
+#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-logo="https://cors.jugorder.de/https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/LaLiga_2023_Horizontal_Logo.svg/2560px-LaLiga_2023_Horizontal_Logo.svg.png" group-title="SPORTS🏅" , LaLiga TV 🇬🇧
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
+https://cors.jugorder.de/https://a166aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+
+#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-logo="https://cors.jugorder.de/https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/LaLiga_2023_Horizontal_Logo.svg/2560px-LaLiga_2023_Horizontal_Logo.svg.png" group-title="SPORTS🏅" , LaLiga TV 🇬🇧
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
+https://cors.jugorder.de/https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-logo="https://cors.jugorder.de/https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/LaLiga_2023_Horizontal_Logo.svg/2560px-LaLiga_2023_Horizontal_Logo.svg.png" group-title="SPORTS🏅", LaLiga TV HYPERMOTION 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
+https://cors.jugorder.de/https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 2" tvg-logo="https://cors.jugorder.de/https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/LaLiga_2023_Horizontal_Logo.svg/2560px-LaLiga_2023_Horizontal_Logo.svg.png" group-title="SPORTS🏅", LaLiga TV HYPERMOTION 2 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=KOSONG
+$https://cors.jugorder.de/https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
+
+#EXTINF:-1 tvg-id="00000 tvg-logo="https://cors.jugorder.de/https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/LaLiga_2023_Horizontal_Logo.svg/2560px-LaLiga_2023_Horizontal_Logo.svg.png" group-title="SPORTS🏅", CANAL+ PLUS SPORT 🇵🇱
+https://cors.jugorder.de/https://damp-mouse-75ea.pejan97800.workers.dev/https://cors.jugorder.de/https://events3.liveboxpro.com/event/48.m3u8
+
+#EXTINF:-1 cuid="1455" tvg-name="La liga Inside 🇪🇸" tvg-id="ESBD3600001Q1" tvg-logo="https://cors.jugorder.de/https://eloutput.com/wp-content/uploads/2024/02/laliga-tv-inside-logo-1200x628.jpg" group-logo="https://cors.jugorder.de/https://cdn-icons-png.freepik.com/512/207/207185.png" group-title="Sports FreeStreaming 🌍",LaLiga Inside 🇪🇸
+https://cors.jugorder.de/https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8
+
