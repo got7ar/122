@@ -1491,3 +1491,8 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1ab/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cac9184d65ce37898b410b025f3ad20a:e14cb7845b06283780efef93eb23eaf6
 https://ko.best-goal.live/tod.php?id=svc-spo-hd-10-dt
+
+#EXTINF:-1 group-title="SPORTS🏅" tvg-id="SSC 1" tvg-logo="https://i.ibb.co.com/G37Y21X/ssc1.png", SSC 1 🇸🇦
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cac9184d65ce37898b410b025f3ad20a:e14cb7845b06283780efef93eb23eaf6
+https://todtv-live-spo-prod.akamaized.net/Content/Channel/svc-spo-hd-09-dt/DASH/hdntl=exp=1754269271~acl=*%2fContent%2fChannel%2fsvc-spo-hd-09-dt%2fDASH%2f*~id=d1609bb0-73ab-4ddf-aeb7-482b0a7304f3~data=hdntl,aXA9MTkyLjI1MC4yMjkuMTYy~hmac=051a9be23188ccd24af157929b23d8179521aca7d3d04ad7ad2887ef64ed650d/playlist_ha.mpd?start=1754254200000&end=1754266200000
