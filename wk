@@ -129,7 +129,7 @@ https://damp-mouse-75ea.pejan97800.workers.dev/https://events3.liveboxpro.com/ev
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://damp-mouse-75ea.pejan97800.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_ott.mpd
 
-$$$https://damp-mouse-75ea.pejan97800.workers.dev/https://events3.liveboxpro.com/event/126.m3u8
+$https://damp-mouse-75ea.pejan97800.workers.dev/https://events3.liveboxpro.com/event/126.m3u8
 
 https://fbyf.short.gy/AstroBadminton2.m3u8?id=go_assp1x|referer=https://astrogo.astro.com.my/
 
@@ -157,7 +157,7 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12
 https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_PREMIER_LEAGUE/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="sky epl de" tvg-logo="https://soccertvblog.com/wp-content/uploads/2021/06/png-logo-e1624885629641.jpg" group-title="SPORTS🏅", Sky Sport Premier League 🇩🇪
-$$https://damp-mouse-75ea.pejan97800.workers.dev/https://events3.liveboxpro.com/event/1.m3u8
+https://damp-mouse-75ea.pejan97800.workers.dev/https://events3.liveboxpro.com/event/1.m3u8
 
 https://cors.jugorder.de/http://146.59.54.156/6044/mpegts
 
@@ -216,7 +216,7 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/tu06vubgf9/out/v1/7
 #EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/LaLiga_2023_Horizontal_Logo.svg/2560px-LaLiga_2023_Horizontal_Logo.svg.png" group-title="SPORTS🏅", LaLiga TV HYPERMOTION 2 🇪🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=KOSONG
-$$$https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
+$https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
 
 #EXTINF:-1 tvg-id="00000 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/LaLiga_2023_Horizontal_Logo.svg/2560px-LaLiga_2023_Horizontal_Logo.svg.png" group-title="SPORTS🏅", CANAL+ PLUS SPORT 🇵🇱
 https://damp-mouse-75ea.pejan97800.workers.dev/https://events3.liveboxpro.com/event/48.m3u8
@@ -355,8 +355,8 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 #EXTVLCOPT:http-referrer=https://topembed.pw/api.php?format=xml
 #EXTVLCOPT:http-origin=https://topembed.pw/api.php?format=xml
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-$$https://fbyf.short.gy/SkyMotoGPLalajoProxy.m3u8
-$$https://fbyf.short.gy/SkySportMotoGP.m3u8
+https://fbyf.short.gy/SkyMotoGPLalajoProxy.m3u8
+https://fbyf.short.gy/SkySportMotoGP.m3u8
 
 https://cors.jugorder.de/http://b7e64053.cbilant.com/iptv/3HYPASK67VVUSL/19133/index.m3u8?token=
 
@@ -372,9 +372,9 @@ https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-$$$https://atemeshield1-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+$https://atemeshield1-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 
-$$https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 
 
 
@@ -386,9 +386,9 @@ $$https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd|user-ag
 #EXTVLCOPT:http-referrer=https://firstmedia-tv.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-$$$https://atemeshield1-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+$https://atemeshield1-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
-$$https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 
 
 #EXTINF:-1 group-title="🏍️ MOTO-GP 🏍️" tvg-id="spotv.kr" tvg-logo="https://cors-proxy.cooks.fyi/http://iptv2023.xtgem.com/0A/event_motogp.png", SPOTV 🇲🇾 MALAYSIA
@@ -447,7 +447,7 @@ http://213.169.39.30:5140
 #EXTINF:-1 tvg-id="POLSAT 1" tvg-logo="https://www.stavki.ua/wp-content/uploads/2021/03/Volleyball-Nations-League.png" group-title="🏐 VNL NATIONS LEAGUE", _Polsat Sport 1 🇵🇱 POLAND
 #EXTVLCOPT:http-referrer=https://huhu.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) FxiOS/13.2b11866 Mobile/16A366 Safari/605.1.15
-$$$https://denstv.short.gy/PolsatSport.m3u8
+$https://denstv.short.gy/PolsatSport.m3u8
 ###http://185.236.229.62:9981/play/a07n
 
 https://damp-mouse-75ea.pejan97800.workers.dev/https://events3.liveboxpro.com/event/47.m3u8
@@ -456,7 +456,7 @@ https://damp-mouse-75ea.pejan97800.workers.dev/https://events3.liveboxpro.com/ev
 #EXTINF:-1 tvg-id="POLSAT 2" tvg-logo="https://www.stavki.ua/wp-content/uploads/2021/03/Volleyball-Nations-League.png" group-title="🏐 VNL NATIONS LEAGUE", _Polsat Sport 2 🇵🇱 POLAND
 #EXTVLCOPT:http-referrer=https://huhu.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) FxiOS/13.2b11866 Mobile/16A366 Safari/605.1.15
-$$$https://denstv.short.gy/PolsatSportExtra.m3u8|referer=Https://huhu.to/&user-agent=iPhone
+$https://denstv.short.gy/PolsatSportExtra.m3u8|referer=Https://huhu.to/&user-agent=iPhone
 ###http://185.236.229.62:9981/play/a07q
 
 https://damp-mouse-75ea.pejan97800.workers.dev/https://events3.liveboxpro.com/event/50.m3u8
@@ -1000,7 +1000,7 @@ https://live12-dash.cdns.cdn.orangetv.orange.es/r-VxaiNv4ggV7yG757OzXA/172792340
 
 #EXTINF:-1 cuid="1484" tvg-name="Fifa+₂ 🇬🇧" tvg-id="USBD12000255B" tvg-logo="https://images.pluto.tv/channels/66997e8d3a4ad20008e50be9/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/207/207185.png" group-title="Sports FreeStreaming 🌍",FIFA+ 🇲🇽
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
-$$$https://is.gd/7PhGkV?5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4.m3u8
+$https://is.gd/7PhGkV?5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4.m3u8
 
 #EXTINF:-1 cuid="1485" tvg-name="Fifa+" tvg-id="66997e8d3a4ad20008e50be9" tvg-logo="https://images.pluto.tv/channels/66997e8d3a4ad20008e50be9/colorLogoPNG.png" group-title="Canais Legendados 🇧🇷🇵🇹",FIFA+ 🇧🇷
 https://9b663bb2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctcHRfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
@@ -1040,7 +1040,7 @@ https://jmp2.uk/sam-GBBD1100008YW.m3u8
 
 #EXTINF:-1  tvg-id="GBBD1100008YW" tvg-logo="https://images.pluto.tv/channels/66997e8d3a4ad20008e50be9/colorLogoPNG.png" group-title="SPORTS🏅" , FIFA+ 🇮🇳
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-$$$https://jmp2.uk/sam-INBA5100009V3.m3u8
+$https://jmp2.uk/sam-INBA5100009V3.m3u8
 
 #EXTINF:-1  tvg-id="GBBD1100008YW" tvg-logo="https://images.pluto.tv/channels/66997e8d3a4ad20008e50be9/colorLogoPNG.png" group-title="SPORTS🏅" , FIFA+ 🇮🇹
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -1048,7 +1048,7 @@ https://jmp2.uk/sam-ITBD1000002HF.m3u8
 
 #EXTINF:-1  tvg-id="GBBD1100008YW" tvg-logo="https://images.pluto.tv/channels/66997e8d3a4ad20008e50be9/colorLogoPNG.png" group-title="SPORTS🏅" , FIFA+ 🇰🇷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-$$$https://jmp2.uk/sam-KRBD1900001Y2.m3u8
+$https://jmp2.uk/sam-KRBD1900001Y2.m3u8
 
 #EXTINF:-1  tvg-id="GBBD1100008YW" tvg-logo="https://images.pluto.tv/channels/66997e8d3a4ad20008e50be9/colorLogoPNG.png" group-title="SPORTS🏅" , FIFA+ 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -1242,7 +1242,7 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtespn
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502917_tvchannels_v1.jpg" group-title="Premium Channel", Celestial Movies
-$$https://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8?app_type=web&userid=lite&chname=celestial-movies-hd|user-agent=Mozilla/5.0
+https://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8?app_type=web&userid=lite&chname=celestial-movies-hd|user-agent=Mozilla/5.0
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1253,7 +1253,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMo
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502928_tvchannels_v1.jpg" group-title="Premium Channel", Celestial Classic Movies
-$$https://op-group1-swiftservesd-1.dens.tv/s/s31/index.m3u8?app_type=web&userid=lite&chname=ccm-celestial-classic-mv|user-agent=Mozilla/5.0
+https://op-group1-swiftservesd-1.dens.tv/s/s31/index.m3u8?app_type=web&userid=lite&chname=ccm-celestial-classic-mv|user-agent=Mozilla/5.0
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
@@ -1315,31 +1315,31 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg" group-title="HBO Group", HBO 🔴
-$$https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="HBO Hits.id" tvg-name="HBO Hits" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d054fbf67379f/c84e8a43ee4c4f728352832e29b798ac.png" group-title="HBO Group", HBO Hits 🔴
-$$https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="HBO Family.id" tvg-name="HBO Family" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d055927fe37a4/2437dbd5c9484e5e87fe8e40710015d3.png" group-title="HBO Group", HBO Family 🔴
-$$https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="HBO Signature.id" tvg-name="HBOSignature1" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d0552e0ca37a2/9603a9f959704b999efab7e3d41b75a3.png" group-title="HBO Group", HBO Signature 🔴
-$$https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cdbfc4a1934bf/a7166b21b4664d2eba55bc446d84af23.jpg" group-title="HBO Group", Cinemax 🔴
-$$https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 
 
