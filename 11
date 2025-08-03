@@ -1490,7 +1490,8 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1ab/master.m3u8
 #EXTINF:-1 group-title="SPORTS🏅" tvg-id="SSC 1" tvg-logo="https://i.ibb.co.com/G37Y21X/ssc1.png", SSC 1 🇸🇦
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cac9184d65ce37898b410b025f3ad20a:e14cb7845b06283780efef93eb23eaf6
-https://ko.best-goal.live/tod.php?id=svc-spo-hd-10-dt
+https://ko.best-goal.live/tod.php?id=svc-spo-hd-09-dt
+
 
 #EXTINF:-1 group-title="SPORTS🏅" tvg-id="SSC 1" tvg-logo="https://i.ibb.co.com/G37Y21X/ssc1.png", SSC 1 🇸🇦
 #KODIPROP:inputstream.adaptive.license_type=clearkey
