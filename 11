@@ -1492,3 +1492,12 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1ab/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=462b64d0595b3838b4d68eb0e6c59448:b4d30d1bfe81d4cffc52790bb6c5d979
 https://ko.best-goal.live/tod.php?id=svc-spo-hd-09-dt
+
+#EXTINF:-1 group-title="VIP Germany", Sky Sport Bundesliga 1
+
+https://cors.jugorder.de/https://linear201-de-dash1-prd-ak.cdn12.skycdp.com/031121-50/index_stereo.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=000bae90050eb69303c736aa44feec31:5cb4e747538e2e234b51b4ef9ab248a4
+
