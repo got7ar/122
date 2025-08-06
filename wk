@@ -1,169 +1,169 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="LIVE | EPL" tvg-logo="https://i.postimg.cc/gJxC40qM/20230119-201559.png",V SPORT 1
+#EXTINF:-1 group-title="LIVE | EPL" tvg-logo="https://cors-proxy.cooks.fyi/https://i.postimg.cc/gJxC40qM/20230119-201559.png",V SPORT 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=04c5eaf62cd75f2d947ab4d621f39256:76967598962e7a7314a2b251e9070725
-https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd
+https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd
 
-#EXTINF:-1 group-title="LIVE | EPL" tvg-logo="https://i.postimg.cc/gJxC40qM/20230119-201559.png",V SPORT FOOTBALL
+#EXTINF:-1 group-title="LIVE | EPL" tvg-logo="https://cors-proxy.cooks.fyi/https://i.postimg.cc/gJxC40qM/20230119-201559.png",V SPORT FOOTBALL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a1447cecef3a4e839d59c1f994eaf2c6:86a376288496a0c32e1178e42139ce66
-https://cd-stream-live.telenorcdn.net/cdgo/cdgo_viasat_fotboll_live/cdgo_viasat_fotboll_live.isml/playlist.mpd
+https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/cdgo_viasat_fotboll_live/cdgo_viasat_fotboll_live.isml/playlist.mpd
 
-#EXTINF:-1 group-title="LIVE | EPL" tvg-logo="https://i.postimg.cc/gJxC40qM/20230119-201559.png",V SPORT PREMIUM
+#EXTINF:-1 group-title="LIVE | EPL" tvg-logo="https://cors-proxy.cooks.fyi/https://i.postimg.cc/gJxC40qM/20230119-201559.png",V SPORT PREMIUM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a1447cecef3a4e839d59c1f994eaf2c6:86a376288496a0c32e1178e42139ce66
-https://cd-stream-live.telenorcdn.net/cdgo/cdgo_viasat_sport_premium_live/cdgo_viasat_sport_premium_live.isml/playlist.mpd
+https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/cdgo_viasat_sport_premium_live/cdgo_viasat_sport_premium_live.isml/playlist.mpd
 
-#EXTINF:-1 group-title="LIVE | EPL" tvg-logo="https://i.postimg.cc/gJxC40qM/20230119-201559.png",V SPORT EXTRA
+#EXTINF:-1 group-title="LIVE | EPL" tvg-logo="https://cors-proxy.cooks.fyi/https://i.postimg.cc/gJxC40qM/20230119-201559.png",V SPORT EXTRA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a1447cecef3a4e839d59c1f994eaf2c6:86a376288496a0c32e1178e42139ce66
-https://cd-stream-live.telenorcdn.net/cdgo/cd_tsat_viasat_sport_extra_se_hd_live/cd_tsat_viasat_sport_extra_se_hd_live.isml/playlist.mpd
+https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/cd_tsat_viasat_sport_extra_se_hd_live/cd_tsat_viasat_sport_extra_se_hd_live.isml/playlist.mpd
 
-#EXTINF:-1 group-title="LIVE | EPL" tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png",DAZN 1 ESP
+#EXTINF:-1 group-title="LIVE | EPL" tvg-logo="https://cors-proxy.cooks.fyi/https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png",DAZN 1 ESP
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
+https://cors-proxy.cooks.fyi/https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
 
-#EXTINF:-1 group-title="LIVE | EPL" tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png",DAZN 2 ESP
+#EXTINF:-1 group-title="LIVE | EPL" tvg-logo="https://cors-proxy.cooks.fyi/https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png",DAZN 2 ESP
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-038/stream.mpd
+https://cors-proxy.cooks.fyi/https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-038/stream.mpd
 
-#EXTINF:1 tvg-id="" tvg-logo="https://i.postimg.cc/0jr3FhsB/20230506-185602.png" group-title="LIVE | EPL",Optus Sport 1
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.salamus1.lol/lb/premium20/index.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://cors-proxy.cooks.fyi/https://i.postimg.cc/0jr3FhsB/20230506-185602.png" group-title="LIVE | EPL",Optus Sport 1
+#EXTVLCOPT:http-referrer=https://cors-proxy.cooks.fyi/https://widevine.licenses4.me/
+https://cors-proxy.cooks.fyi/https://webudit.salamus1.lol/lb/premium20/index.m3u8
 
-#EXTINF:1 tvg-id="" tvg-logo="https://i.postimg.cc/0jr3FhsB/20230506-185602.png" group-title="LIVE | EPL",Optus Sport 2
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.salamus1.lol/lb/premium21/index.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://cors-proxy.cooks.fyi/https://i.postimg.cc/0jr3FhsB/20230506-185602.png" group-title="LIVE | EPL",Optus Sport 2
+#EXTVLCOPT:http-referrer=https://cors-proxy.cooks.fyi/https://widevine.licenses4.me/
+https://cors-proxy.cooks.fyi/https://webudit.salamus1.lol/lb/premium21/index.m3u8
 
-#EXTINF:1 tvg-id="" tvg-logo="https://i.postimg.cc/0jr3FhsB/20230506-185602.png" group-title="LIVE | EPL",Optus Sport 3
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.salamus1.lol/lb/premium22/index.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://cors-proxy.cooks.fyi/https://i.postimg.cc/0jr3FhsB/20230506-185602.png" group-title="LIVE | EPL",Optus Sport 3
+#EXTVLCOPT:http-referrer=https://cors-proxy.cooks.fyi/https://widevine.licenses4.me/
+https://cors-proxy.cooks.fyi/https://webudit.salamus1.lol/lb/premium22/index.m3u8
 
-#EXTINF:1 tvg-id="" tvg-logo="https://i.postimg.cc/0jr3FhsB/20230506-185602.png" group-title="LIVE | EPL",Optus Sport 4
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.salamus1.lol/lb/premium23/index.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://cors-proxy.cooks.fyi/https://i.postimg.cc/0jr3FhsB/20230506-185602.png" group-title="LIVE | EPL",Optus Sport 4
+#EXTVLCOPT:http-referrer=https://cors-proxy.cooks.fyi/https://widevine.licenses4.me/
+https://cors-proxy.cooks.fyi/https://webudit.salamus1.lol/lb/premium23/index.m3u8
 
-#EXTINF:1 tvg-id="" tvg-logo="https://i.postimg.cc/0jr3FhsB/20230506-185602.png" group-title="LIVE | EPL",Optus Sport 5
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.salamus1.lol/lb/premium24/index.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://cors-proxy.cooks.fyi/https://i.postimg.cc/0jr3FhsB/20230506-185602.png" group-title="LIVE | EPL",Optus Sport 5
+#EXTVLCOPT:http-referrer=https://cors-proxy.cooks.fyi/https://widevine.licenses4.me/
+https://cors-proxy.cooks.fyi/https://webudit.salamus1.lol/lb/premium24/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.ibb.co/tMGtqdc/Desain-tanpa-judul-31-modified.png" group-title="LIVE | EPL",Sky Sports Main Event
-https://webudit.salamus1.lol/lb/premium38/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://cors-proxy.cooks.fyi/https://i.ibb.co/tMGtqdc/Desain-tanpa-judul-31-modified.png" group-title="LIVE | EPL",Sky Sports Main Event
+https://cors-proxy.cooks.fyi/https://webudit.salamus1.lol/lb/premium38/index.m3u8?|referer=https://cors-proxy.cooks.fyi/https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.ibb.co/88CjXqT/Desain-tanpa-judul-56-modified.png" group-title="LIVE | EPL",Sky Sports Premier League
-https://webudit.salamus1.lol/lb/premium130/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://cors-proxy.cooks.fyi/https://i.ibb.co/88CjXqT/Desain-tanpa-judul-56-modified.png" group-title="LIVE | EPL",Sky Sports Premier League
+https://cors-proxy.cooks.fyi/https://webudit.salamus1.lol/lb/premium130/index.m3u8?|referer=https://cors-proxy.cooks.fyi/https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-id="BTSport1.uk" tvg-logo="https://i.ibb.co/Tk4gX8z/unnamed-24-modified.png" group-title="LIVE | EPL",BT Sport 1
-https://webudit.salamus1.lol/lb/premium31/index.m3u8|referer=https://widevine.licenses4.me/
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-logo="https://cors-proxy.cooks.fyi/https://i.ibb.co/Tk4gX8z/unnamed-24-modified.png" group-title="LIVE | EPL",BT Sport 1
+https://cors-proxy.cooks.fyi/https://webudit.salamus1.lol/lb/premium31/index.m3u8|referer=https://cors-proxy.cooks.fyi/https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id="BTSport2.uk" tvg-logo="https://i.ibb.co/Tk4gX8z/unnamed-24-modified.png" group-title="LIVE | EPL",BT Sport 2
-https://webudit.salamus1.lol/lb/premium32/index.m3u8|referer=https://widevine.licenses4.me/
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-logo="https://cors-proxy.cooks.fyi/https://i.ibb.co/Tk4gX8z/unnamed-24-modified.png" group-title="LIVE | EPL",BT Sport 2
+https://cors-proxy.cooks.fyi/https://webudit.salamus1.lol/lb/premium32/index.m3u8|referer=https://cors-proxy.cooks.fyi/https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id="BTSport3.uk" tvg-logo="https://i.ibb.co/Tk4gX8z/unnamed-24-modified.png" group-title="LIVE | EPL",BT Sport 3
-https://webudit.salamus1.lol/lb/premium33/index.m3u8|referer=https://widevine.licenses4.me/
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-logo="https://cors-proxy.cooks.fyi/https://i.ibb.co/Tk4gX8z/unnamed-24-modified.png" group-title="LIVE | EPL",BT Sport 3
+https://cors-proxy.cooks.fyi/https://webudit.salamus1.lol/lb/premium33/index.m3u8|referer=https://cors-proxy.cooks.fyi/https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id="BTSport4.uk" tvg-logo="https://i.ibb.co/Tk4gX8z/unnamed-24-modified.png" group-title="LIVE | EPL",BT Sport 4
-https://webudit.salamus1.lol/lb/premium34/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="BTSport4.uk" tvg-logo="https://cors-proxy.cooks.fyi/https://i.ibb.co/Tk4gX8z/unnamed-24-modified.png" group-title="LIVE | EPL",BT Sport 4
+https://cors-proxy.cooks.fyi/https://webudit.salamus1.lol/lb/premium34/index.m3u8?|referer=https://cors-proxy.cooks.fyi/https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 group-title="LIVE | EPL" tvg-logo="https://i.postimg.cc/zXbLd9w9/20221003-171748.png" ,USA Network
-https://webudit.salamus1.lol/lb/premium343/index.m3u8|referer=https://streamservicehd.click/
+#EXTINF:-1 group-title="LIVE | EPL" tvg-logo="https://cors-proxy.cooks.fyi/https://i.postimg.cc/zXbLd9w9/20221003-171748.png" ,USA Network
+https://cors-proxy.cooks.fyi/https://webudit.salamus1.lol/lb/premium343/index.m3u8|referer=https://cors-proxy.cooks.fyi/https://streamservicehd.click/
 
-#EXTINF:1 tvg-id="AstroSuperSport.my" tvg-logo="https://i.postimg.cc/m2FCjxSj/20220804-173429.png" group-title="LIVE | EPL",Astro Supersport 1
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.salamus1.lol/lb/premium123/index.m3u8
+#EXTINF:1 tvg-id="AstroSuperSport.my" tvg-logo="https://cors-proxy.cooks.fyi/https://i.postimg.cc/m2FCjxSj/20220804-173429.png" group-title="LIVE | EPL",Astro Supersport 1
+#EXTVLCOPT:http-referrer=https://cors-proxy.cooks.fyi/https://widevine.licenses4.me/
+https://cors-proxy.cooks.fyi/https://webudit.salamus1.lol/lb/premium123/index.m3u8
 
-#EXTINF:2 tvg-id="AstroSuperSport2.my" tvg-logo="https://i.postimg.cc/m2FCjxSj/20220804-173429.png" group-title="LIVE | EPL",Astro Supersport 2
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.salamus1.lol/lb/premium124/index.m3u8
+#EXTINF:2 tvg-id="AstroSuperSport2.my" tvg-logo="https://cors-proxy.cooks.fyi/https://i.postimg.cc/m2FCjxSj/20220804-173429.png" group-title="LIVE | EPL",Astro Supersport 2
+#EXTVLCOPT:http-referrer=https://cors-proxy.cooks.fyi/https://widevine.licenses4.me/
+https://cors-proxy.cooks.fyi/https://webudit.salamus1.lol/lb/premium124/index.m3u8
 
-#EXTINF:3 tvg-id="AstroSuperSport3.my" tvg-logo="https://i.postimg.cc/m2FCjxSj/20220804-173429.png" group-title="LIVE | EPL",Astro Supersport 3
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.salamus1.lol/lb/premium125/index.m3u8
+#EXTINF:3 tvg-id="AstroSuperSport3.my" tvg-logo="https://cors-proxy.cooks.fyi/https://i.postimg.cc/m2FCjxSj/20220804-173429.png" group-title="LIVE | EPL",Astro Supersport 3
+#EXTVLCOPT:http-referrer=https://cors-proxy.cooks.fyi/https://widevine.licenses4.me/
+https://cors-proxy.cooks.fyi/https://webudit.salamus1.lol/lb/premium125/index.m3u8
 
-#EXTINF:4 tvg-id="AstroSuperSport4.my" tvg-logo="https://i.postimg.cc/m2FCjxSj/20220804-173429.png" group-title="LIVE | EPL",Astro Supersport 4
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.salamus1.lol/lb/premium126/index.m3u8
+#EXTINF:4 tvg-id="AstroSuperSport4.my" tvg-logo="https://cors-proxy.cooks.fyi/https://i.postimg.cc/m2FCjxSj/20220804-173429.png" group-title="LIVE | EPL",Astro Supersport 4
+#EXTVLCOPT:http-referrer=https://cors-proxy.cooks.fyi/https://widevine.licenses4.me/
+https://cors-proxy.cooks.fyi/https://webudit.salamus1.lol/lb/premium126/index.m3u8
 
-#EXTINF:5 tvg-id="AstroSuperSport5.my" tvg-logo="https://i.postimg.cc/m2FCjxSj/20220804-173429.png" group-title="LIVE | EPL",Astro Supersport 5
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.salamus1.lol/lb/premium43/index.m3u8
+#EXTINF:5 tvg-id="AstroSuperSport5.my" tvg-logo="https://cors-proxy.cooks.fyi/https://i.postimg.cc/m2FCjxSj/20220804-173429.png" group-title="LIVE | EPL",Astro Supersport 5
+#EXTVLCOPT:http-referrer=https://cors-proxy.cooks.fyi/https://widevine.licenses4.me/
+https://cors-proxy.cooks.fyi/https://webudit.salamus1.lol/lb/premium43/index.m3u8
 
-#EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="LIVE | EPL",Supersport Premier League
-https://webudit.salamus1.lol/lb/premium414/index.m3u8|referer=https://widevine.licenses4.me/
+#EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-logo="https://cors-proxy.cooks.fyi/https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="LIVE | EPL",Supersport Premier League
+https://cors-proxy.cooks.fyi/https://webudit.salamus1.lol/lb/premium414/index.m3u8|referer=https://cors-proxy.cooks.fyi/https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id="ArenaPremium1.rs" tvg-logo="https://i.ibb.co/85JF0TN/download-17-modified.png" group-title="LIVE | EPL",Arena 1 Premium
-https://webudit.salamus1.lol/lb/premium134/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="ArenaPremium1.rs" tvg-logo="https://cors-proxy.cooks.fyi/https://i.ibb.co/85JF0TN/download-17-modified.png" group-title="LIVE | EPL",Arena 1 Premium
+https://cors-proxy.cooks.fyi/https://webudit.salamus1.lol/lb/premium134/index.m3u8?|referer=https://cors-proxy.cooks.fyi/https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-id="ArenaPremium2.rs" tvg-logo="https://i.ibb.co/8PVTcgD/download-16-modified.png" group-title="LIVE | EPL",Arena 2 Premium
-https://webudit.salamus1.lol/lb/premium135/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="ArenaPremium2.rs" tvg-logo="https://cors-proxy.cooks.fyi/https://i.ibb.co/8PVTcgD/download-16-modified.png" group-title="LIVE | EPL",Arena 2 Premium
+https://cors-proxy.cooks.fyi/https://webudit.salamus1.lol/lb/premium135/index.m3u8?|referer=https://cors-proxy.cooks.fyi/https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-id="ArenaPremium3.rs" tvg-logo="https://i.ibb.co/ZWDtsz4/download-18-modified.png" group-title="LIVE | EPL",Arena 3 Premium
-https://webudit.salamus1.lol/lb/premium139/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="ArenaPremium3.rs" tvg-logo="https://cors-proxy.cooks.fyi/https://i.ibb.co/ZWDtsz4/download-18-modified.png" group-title="LIVE | EPL",Arena 3 Premium
+https://cors-proxy.cooks.fyi/https://webudit.salamus1.lol/lb/premium139/index.m3u8?|referer=https://cors-proxy.cooks.fyi/https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-id="beINSportsEnglish1.qa" group-title="LIVE | EPL" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sports English 1
-https://webudit.salamus1.lol/lb/premium61/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="beINSportsEnglish1.qa" group-title="LIVE | EPL" tvg-logo="https://cors-proxy.cooks.fyi/https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sports English 1
+https://cors-proxy.cooks.fyi/https://webudit.salamus1.lol/lb/premium61/index.m3u8?|referer=https://cors-proxy.cooks.fyi/https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-id="beINSportsEnglish2.qa" group-title="LIVE | EPL" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sports English 2
-https://webudit.salamus1.lol/lb/premium90/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="beINSportsEnglish2.qa" group-title="LIVE | EPL" tvg-logo="https://cors-proxy.cooks.fyi/https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sports English 2
+https://cors-proxy.cooks.fyi/https://webudit.salamus1.lol/lb/premium90/index.m3u8?|referer=https://cors-proxy.cooks.fyi/https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-id="beINSportsEnglish3.qa" group-title="LIVE | EPL" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sports English 3
-https://webudit.salamus1.lol/lb/premium46/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="beINSportsEnglish3.qa" group-title="LIVE | EPL" tvg-logo="https://cors-proxy.cooks.fyi/https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sports English 3
+https://cors-proxy.cooks.fyi/https://webudit.salamus1.lol/lb/premium46/index.m3u8?|referer=https://cors-proxy.cooks.fyi/https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-id="beINSportsPremium1.qa" group-title="LIVE | EPL" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sports Premium 1
-https://webudit.salamus1.lol/lb/premium98/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="beINSportsPremium1.qa" group-title="LIVE | EPL" tvg-logo="https://cors-proxy.cooks.fyi/https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sports Premium 1
+https://cors-proxy.cooks.fyi/https://webudit.salamus1.lol/lb/premium98/index.m3u8?|referer=https://cors-proxy.cooks.fyi/https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-id="beINSportsPremium2.qa" group-title="LIVE | EPL" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sports Premium 2
-https://webudit.salamus1.lol/lb/premium99/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="beINSportsPremium2.qa" group-title="LIVE | EPL" tvg-logo="https://cors-proxy.cooks.fyi/https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sports Premium 2
+https://cors-proxy.cooks.fyi/https://webudit.salamus1.lol/lb/premium99/index.m3u8?|referer=https://cors-proxy.cooks.fyi/https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-id="beINSportsPremium3.qa" group-title="LIVE | EPL" tvg-logo="https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sports Premium 3
-https://webudit.salamus1.lol/lb/premium100/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="beINSportsPremium3.qa" group-title="LIVE | EPL" tvg-logo="https://cors-proxy.cooks.fyi/https://i.postimg.cc/9fLqjh4D/20220912-053610.png" ,beIN Sports Premium 3
+https://cors-proxy.cooks.fyi/https://webudit.salamus1.lol/lb/premium100/index.m3u8?|referer=https://cors-proxy.cooks.fyi/https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/xSxZ00P/Desain-tanpa-judul-2022-09-18-T080837-522-modified.png" group-title="LIVE | EPL",Sport 1 IL
-https://webudit.salamus1.lol/lb/premium140/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="" tvg-logo="https://cors-proxy.cooks.fyi/https://i.ibb.co/xSxZ00P/Desain-tanpa-judul-2022-09-18-T080837-522-modified.png" group-title="LIVE | EPL",Sport 1 IL
+https://cors-proxy.cooks.fyi/https://webudit.salamus1.lol/lb/premium140/index.m3u8?|referer=https://cors-proxy.cooks.fyi/https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GJyyHDM/Desain-tanpa-judul-2022-09-18-T080856-542-modified.png" group-title="LIVE | EPL",Sport 2 IL
-https://webudit.salamus1.lol/lb/premium141/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="" tvg-logo="https://cors-proxy.cooks.fyi/https://i.ibb.co/GJyyHDM/Desain-tanpa-judul-2022-09-18-T080856-542-modified.png" group-title="LIVE | EPL",Sport 2 IL
+https://cors-proxy.cooks.fyi/https://webudit.salamus1.lol/lb/premium141/index.m3u8?|referer=https://cors-proxy.cooks.fyi/https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:1 tvg-id="ElevenSports1Poland.pl" tvg-logo="https://i.ibb.co/D8SDX57/Desain-tanpa-judul-86-modified.png" group-title="LIVE | EPL",Eleven Sports 1 Poland
-https://webudit.salamus1.lol/lb/premium71/index.m3u8|referer=https://widevine.licenses4.me/
+#EXTINF:1 tvg-id="ElevenSports1Poland.pl" tvg-logo="https://cors-proxy.cooks.fyi/https://i.ibb.co/D8SDX57/Desain-tanpa-judul-86-modified.png" group-title="LIVE | EPL",Eleven Sports 1 Poland
+https://cors-proxy.cooks.fyi/https://webudit.salamus1.lol/lb/premium71/index.m3u8|referer=https://cors-proxy.cooks.fyi/https://widevine.licenses4.me/
 
-#EXTINF:2 tvg-id="ElevenSports2Poland.pl" tvg-logo="https://i.ibb.co/D8SDX57/Desain-tanpa-judul-86-modified.png" group-title="LIVE | EPL",Eleven Sports 2 Poland
-https://webudit.salamus1.lol/lb/premium72/index.m3u8|referer=https://widevine.licenses4.me/
+#EXTINF:2 tvg-id="ElevenSports2Poland.pl" tvg-logo="https://cors-proxy.cooks.fyi/https://i.ibb.co/D8SDX57/Desain-tanpa-judul-86-modified.png" group-title="LIVE | EPL",Eleven Sports 2 Poland
+https://cors-proxy.cooks.fyi/https://webudit.salamus1.lol/lb/premium72/index.m3u8|referer=https://cors-proxy.cooks.fyi/https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id="ElevenSports3Poland.pl" tvg-logo="https://i.ibb.co/D8SDX57/Desain-tanpa-judul-86-modified.png" group-title="LIVE | EPL",Eleven Sports 3 Poland
-https://webudit.salamus1.lol/lb/premium428/index.m3u8|referer=https://widevine.licenses4.me/
+#EXTINF:-1 tvg-id="ElevenSports3Poland.pl" tvg-logo="https://cors-proxy.cooks.fyi/https://i.ibb.co/D8SDX57/Desain-tanpa-judul-86-modified.png" group-title="LIVE | EPL",Eleven Sports 3 Poland
+https://cors-proxy.cooks.fyi/https://webudit.salamus1.lol/lb/premium428/index.m3u8|referer=https://cors-proxy.cooks.fyi/https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-logo="https://i.ibb.co/D8SDX57/Desain-tanpa-judul-86-modified.png" group-title="LIVE | EPL",Eleven 1 HD
-https://webudit.salamus1.lol/lb/premium455/index.m3u8|referer=https://widevine.licenses4.me/
+#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-logo="https://cors-proxy.cooks.fyi/https://i.ibb.co/D8SDX57/Desain-tanpa-judul-86-modified.png" group-title="LIVE | EPL",Eleven 1 HD
+https://cors-proxy.cooks.fyi/https://webudit.salamus1.lol/lb/premium455/index.m3u8|referer=https://cors-proxy.cooks.fyi/https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-logo="https://i.ibb.co/D8SDX57/Desain-tanpa-judul-86-modified.png" group-title="LIVE | EPL",Eleven 2 HD
-https://webudit.salamus1.lol/lb/premium456/index.m3u8|referer=https://widevine.licenses4.me/
+#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-logo="https://cors-proxy.cooks.fyi/https://i.ibb.co/D8SDX57/Desain-tanpa-judul-86-modified.png" group-title="LIVE | EPL",Eleven 2 HD
+https://cors-proxy.cooks.fyi/https://webudit.salamus1.lol/lb/premium456/index.m3u8|referer=https://cors-proxy.cooks.fyi/https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" tvg-logo="https://i.ibb.co/D8SDX57/Desain-tanpa-judul-86-modified.png" group-title="LIVE | EPL",Eleven 3 HD
-https://webudit.salamus1.lol/lb/premium457/index.m3u8|referer=https://widevine.licenses4.me/
+#EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" tvg-logo="https://cors-proxy.cooks.fyi/https://i.ibb.co/D8SDX57/Desain-tanpa-judul-86-modified.png" group-title="LIVE | EPL",Eleven 3 HD
+https://cors-proxy.cooks.fyi/https://webudit.salamus1.lol/lb/premium457/index.m3u8|referer=https://cors-proxy.cooks.fyi/https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id="DiemaSport1.bg" tvg-logo="https://i.postimg.cc/YqyYhs4c/20230104-200031.png"  group-title="LIVE | EPL",Diema Sport 1 HD
-https://webudit.salamus1.lol/lb/premium465/index.m3u8|referer=https://widevine.licenses4.me/
+#EXTINF:-1 tvg-id="DiemaSport1.bg" tvg-logo="https://cors-proxy.cooks.fyi/https://i.postimg.cc/YqyYhs4c/20230104-200031.png"  group-title="LIVE | EPL",Diema Sport 1 HD
+https://cors-proxy.cooks.fyi/https://webudit.salamus1.lol/lb/premium465/index.m3u8|referer=https://cors-proxy.cooks.fyi/https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id="DiemaSport2.bg" tvg-logo="https://i.postimg.cc/YqyYhs4c/20230104-200031.png"  group-title="LIVE | EPL",Diema Sport 2 HD
-https://webudit.salamus1.lol/lb/premium466/index.m3u8|referer=https://widevine.licenses4.me/
+#EXTINF:-1 tvg-id="DiemaSport2.bg" tvg-logo="https://cors-proxy.cooks.fyi/https://i.postimg.cc/YqyYhs4c/20230104-200031.png"  group-title="LIVE | EPL",Diema Sport 2 HD
+https://cors-proxy.cooks.fyi/https://webudit.salamus1.lol/lb/premium466/index.m3u8|referer=https://cors-proxy.cooks.fyi/https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id="DiemaSport3.bg" tvg-logo="https://i.postimg.cc/YqyYhs4c/20230104-200031.png"  group-title="LIVE | EPL",Diema Sport 3 HD
-https://webudit.salamus1.lol/lb/premium467/index.m3u8|referer=https://widevine.licenses4.me/
-
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-#EXTINF:-1 group-title="LIVE | EPL" tvg-logo="https://i.postimg.cc/Z0z4VGxB/20220909-144809.png",TRUE PREMIER FOOTBALL 1 HD
-https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|referer=www.movie87hd.com
+#EXTINF:-1 tvg-id="DiemaSport3.bg" tvg-logo="https://cors-proxy.cooks.fyi/https://i.postimg.cc/YqyYhs4c/20230104-200031.png"  group-title="LIVE | EPL",Diema Sport 3 HD
+https://cors-proxy.cooks.fyi/https://webudit.salamus1.lol/lb/premium467/index.m3u8|referer=https://cors-proxy.cooks.fyi/https://widevine.licenses4.me/
 
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-#EXTINF:-1 group-title="LIVE | EPL" tvg-logo="https://i.postimg.cc/Z0z4VGxB/20220909-144809.png",TRUE PREMIER FOOTBALL 2 HD
-https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8|referer=www.movie87hd.com
+#EXTINF:-1 group-title="LIVE | EPL" tvg-logo="https://cors-proxy.cooks.fyi/https://i.postimg.cc/Z0z4VGxB/20220909-144809.png",TRUE PREMIER FOOTBALL 1 HD
+https://cors-proxy.cooks.fyi/https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|referer=www.movie87hd.com
 
-#EXTINF:-1 tvg-id="SuperSportVariety1.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="LIVE | EPL",Supersport Variety 1
-https://webudit.salamus1.lol/lb/premium416/index.m3u8|referer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTINF:-1 group-title="LIVE | EPL" tvg-logo="https://cors-proxy.cooks.fyi/https://i.postimg.cc/Z0z4VGxB/20220909-144809.png",TRUE PREMIER FOOTBALL 2 HD
+https://cors-proxy.cooks.fyi/https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8|referer=www.movie87hd.com
+
+#EXTINF:-1 tvg-id="SuperSportVariety1.za" tvg-logo="https://cors-proxy.cooks.fyi/https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="LIVE | EPL",Supersport Variety 1
+https://cors-proxy.cooks.fyi/https://webudit.salamus1.lol/lb/premium416/index.m3u8|referer=https://cors-proxy.cooks.fyi/https://widevine.licenses4.me/
 
 
 
