@@ -1,202 +1,150 @@
+تم حذف التكرار وتنسيق النص:
+
+```
 #EXTM3U
 
-#EXTINF:-1 group-title="beIN" tvg-id="beIN 4K" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein\_SPORTS\_FTA\_DIGITAL\_Mono.png](https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png)", beIN 4K
-#KODIPROP:inputstream.adaptive.license\_type=clearkey
-#KODIPROP:inputstream.adaptive.license\_key=bfefc7feec543c11bbaadb221835a1e0:eca64d1d134a641f76376167c5bd5c3e
-https://live-hz-7.livepush.io/live/em79akQbx8sO3xlk/chunks.m3u8?nimblesessionid=11240214\&session\_id=4885607127232019](https://www.google.com/search?q=https://live-hz-7.livepush.io/live/em79akQbx8sO3xlk/chunks.m3u8%3Fnimblesessionid%3D11240214%26session_id%3D4885607127232019)
-
-
-
-#EXTINF:-1 group-title="beIN" tvg-id="beIN SPORTS 1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN\_SPORTS1\_DIGITAL\_Mono.png](https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png)", beIN SPORTS 1
-#KODIPROP:inputstream.adaptive.license\_type=clearkey
-#KODIPROP:inputstream.adaptive.license\_key=f1dac2f937c9338f8e7c33963d06c489:8ab19f639fe1552c7463f4b978c41c9d
-https://ko.best-goal.live/tod.php?id=svc-spo-hd-08-dt](https://ko.best-goal.live/tod.php?id=svc-spo-hd-08-dt
-
-
-
-#EXTINF:-1 group-title="beIN" tvg-id="beIN SPORTS 2" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN\_SPORTS2\_DIGITAL\_Mono.png](https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png)", beIN SPORTS 2
-#KODIPROP:inputstream.adaptive.license\_type=clearkey
-#KODIPROP:inputstream.adaptive.license\_key=462b64d0595b3838b4d68eb0e6c59448:b4d30d1bfe81d4cffc52790bb6c5d979
-https://ko.best-goal.live/tod.php?id=svc-spo-hd-09-dt](https://ko.best-goal.live/tod.php?id=svc-spo-hd-09-dt
-
-
-
-#EXTINF:-1 group-title="beIN" tvg-id="beIN SPORTS 3" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN\_SPORTS3\_DIGITAL\_Mono.png](https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png)", beIN SPORTS 3
-#KODIPROP:inputstream.adaptive.license\_type=clearkey
-#KODIPROP:inputstream.adaptive.license\_key=cac9184d65ce37898b410b025f3ad20a:e14cb7845b06283780efef93eb23eaf6
-https://ko.best-goal.live/tod.php?id=svc-spo-hd-10-dt](https://ko.best-goal.live/tod.php?id=svc-spo-hd-10-dt
-
-
-
-#EXTINF:-1 group-title="beIN" tvg-id="beIN SPORTS 4" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN\_SPORTS4\_DIGITAL\_Mono.png](https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png)", beIN SPORTS 4
-#KODIPROP:inputstream.adaptive.license\_type=clearkey
-#KODIPROP:inputstream.adaptive.license\_key=468db5e499dd3b1c9a3c5c9969e2aea8:1a5e0247aaefad74c5912064b64859e2
-https://ko.best-goal.live/tod.php?id=svc-spo-hd-11-dt](https://ko.best-goal.live/tod.php?id=svc-spo-hd-11-dt
-
-
-
-#EXTINF:-1 group-title="beIN" tvg-id="beIN SPORTS 5" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN\_SPORTS5\_DIGITAL\_Mono.png](https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png)", beIN SPORTS 5
-#KODIPROP:inputstream.adaptive.license\_type=clearkey
-#KODIPROP:inputstream.adaptive.license\_key=4358b2e38e973281b6f6970e95cd13de:6c687cf562a83f6f611731b4646ff584
-https://ko.best-goal.live/tod.php?id=svc-spo-hd-12-dt](https://ko.best-goal.live/tod.php?id=svc-spo-hd-12-dt
-
-
-
-#EXTINF:-1 group-title="beIN" tvg-id="beIN SPORTS 6" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN\_SPORTS6\_DIGITAL\_Mono-d-1.png](https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono-d-1.png)", beIN SPORTS 6
-#KODIPROP:inputstream.adaptive.license\_type=clearkey
-#KODIPROP:inputstream.adaptive.license\_key=44570b198707332caab56924d253ee25:d95efbc6594ef573a269b912e33b7f72
-https://ko.best-goal.live/tod.php?id=svc-spo-hd-13-dt](https://ko.best-goal.live/tod.php?id=svc-spo-hd-13-dt
-
-
-
-#EXTINF:-1 group-title="beIN" tvg-id="beIN SPORTS 7" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN\_SPORTS7\_DIGITAL\_Mono.png](https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png)", beIN SPORTS 7
-#KODIPROP:inputstream.adaptive.license\_type=clearkey
-#KODIPROP:inputstream.adaptive.license\_key=243258212d17399f9e04423b450e45ab:4d251bfc4fc1c305adc2c07594236253
-https://ko.best-goal.live/tod.php?id=svc-spo-hd-14-dt](https://ko.best-goal.live/tod.php?id=svc-spo-hd-14-dt
-
-
-
-#EXTINF:-1 group-title="beIN" tvg-id="beIN SPORTS 8" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-\_beINSPORTS8.png](https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png)", beIN SPORTS 8
-#KODIPROP:inputstream.adaptive.license\_type=clearkey
-#KODIPROP:inputstream.adaptive.license\_key=fa58e7eb3a4d36949c71ac3ef6e869d8:b799b788cf13c7bbba95426c94879f30
-https://ko.best-goal.live/tod.php?id=svc-spo-hd-15-dt](https://ko.best-goal.live/tod.php?id=svc-spo-hd-15-dt
-
-
-
-#EXTINF:-1 group-title="beIN" tvg-id="beIN SPORTS 9" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-\_beINSPORTS9.png](https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png)", beIN SPORTS 9
-#KODIPROP:inputstream.adaptive.license\_type=clearkey
-#KODIPROP:inputstream.adaptive.license\_key=98eedea3e547368886168bb7f8d2e903:305670ff7b7495b093e761a5e550697d
-https://ko.best-goal.live/tod.php?id=svc-spo-hd-16-dt](https://ko.best-goal.live/tod.php?id=svc-spo-hd-16-dt
-
-
-
-#EXTINF:-1 group-title="beIN" tvg-id="beIN SPORTS HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein\_SPORTS\_FTA\_DIGITAL\_Mono.png](https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png)", beIN SPORTS HD
-#KODIPROP:inputstream.adaptive.license\_type=clearkey
-#KODIPROP:inputstream.adaptive.license\_key=dece176768f639bcbaf97ebca9c74164:dd5f1f0bfe87b23eb94160af51671670
-https://moviball.gt.tc/channel.php?id=5003196](https://moviball.gt.tc/channel.php?id=5003196)
-
-
-
-#EXTINF:-1 group-title="beIN" tvg-id="beIN SPORTS News" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NEWS\_DIGITAL\_Mono.png](https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png)", beIN SPORTS News
-#KODIPROP:inputstream.adaptive.license\_type=clearkey
-#KODIPROP:inputstream.adaptive.license\_key=7faafe485db7395b9583222a3a6e789d:163906ba32dd3d611aad5789cbd00858
-https://moviball.wuaze.com/channel.php?id=5003197](https://moviball.wuaze.com/channel.php?id=5003197)
-
-
-
-#EXTINF:-1 group-title="beIN" tvg-id="beIN SPORTS NBA" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NBA\_DIGITAL\_Mono.png](https://assets.bein.com/mena/sites/4/2015/06/NBA_DIGITAL_Mono.png)", beIN SPORTS NBA
-#KODIPROP:inputstream.adaptive.license\_type=clearkey
-#KODIPROP:inputstream.adaptive.license\_key=f64f7ec678853863bc60dc74d9834f14:4dceab60a7c4288484ea856f8c41f56b
-https://moviball.wuaze.com/channel.php?id=5003198](https://moviball.wuaze.com/channel.php?id=5003198)
-
-
-
-#EXTINF:-1 group-title="beIN" tvg-id="beIN XTRA 1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN\_SPORTS\_XTRA1\_Digital\_Mono.png](https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png)", beIN XTRA 1
-#KODIPROP:inputstream.adaptive.license\_type=clearkey
-#KODIPROP:inputstream.adaptive.license\_key=6cc4dd3a5497310ba2e34ceeacd1c19b:e9c5d24ea414d0a2a7100fc1fc36a387
-https://ko.best-goal.live/tod.php?id=svc-spo-hd-17-dt](https://ko.best-goal.live/tod.php?id=svc-spo-hd-17-dt
-
-
-
-#EXTINF:-1 group-title="beIN" tvg-id="beIN XTRA 2" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN\_SPORTS\_XTRA2\_Digital\_Mono.png](https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png)", beIN XTRA 2
-#KODIPROP:inputstream.adaptive.license\_type=clearkey
-#KODIPROP:inputstream.adaptive.license\_key=c800955c66bc3690af22486d2d5bce75:014ff13e55476109eeff11aaf5270f6a
-https://ko.best-goal.live/tod.php?id=svc-spo-hd-18-dt](https://ko.best-goal.live/tod.php?id=svc-spo-hd-18-dt
-
-
-
-#EXTINF:-1 group-title="beIN" tvg-id="beIN XTRA 3" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-\_beINSPORTSXTRA3.png](https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTSXTRA3.png)", beIN XTRA 3
-#KODIPROP:inputstream.adaptive.license\_type=clearkey
-#KODIPROP:inputstream.adaptive.license\_key=70321d024ed533a38ab945a35411a765:ff7728dcdbe4bd28951d12f5cda9c4c6
-https://ko.best-goal.live/tod.php?id=svc-spo-hd-19-dt](https://ko.best-goal.live/tod.php?id=svc-spo-hd-19-dt
-
-
-
-#EXTINF:-1 group-title="beIN" tvg-id="beIN XTRA 4" tvg-logo="https://assets.bein.com/mena/sites/4/2025/01/beIN\_SPORTS\_XTRA\_04\_bein.com\_.png](https://assets.bein.com/mena/sites/4/2025/01/beIN_SPORTS_XTRA_04_bein.com_.png)", beIN XTRA 4
-#KODIPROP:inputstream.adaptive.license\_type=clearkey
-#KODIPROP:inputstream.adaptive.license\_key=78b56a88039036578006b72f8f24c5c2:a850e689377ca62a44c6b0cebf48606e
-https://tod.moviball.online/tod.php?id=svc-spo-hd-74-dt](https://tod.moviball.online/tod.php?id=svc-spo-hd-74-dt
-
-
-
-#EXTINF:-1 group-title="beIN" tvg-id="beIN XTRA 5" tvg-logo="https://assets.bein.com/mena/sites/4/2025/01/beIN\_SPORTS\_XTRA\_05\_bein.com\_.png](https://assets.bein.com/mena/sites/4/2025/01/beIN_SPORTS_XTRA_05_bein.com_.png)", beIN XTRA 5
-#KODIPROP:inputstream.adaptive.license\_type=clearkey
-#KODIPROP:inputstream.adaptive.license\_key=39f66081623d3208a466f85691d1b9ca:bfd245121f16618eb3a44ff4d3b349b1
-https://tod.moviball.online/tod.php?id=svc-spo-hd-72-dt](https://tod.moviball.online/tod.php?id=svc-spo-hd-72-dt
-
-
-
-#EXTINF:-1 group-title="beIN" tvg-id="beIN SPORTS EN 1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN\_SPORTS1\_ENGLISH\_Digital\_Mono.png](https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png)", beIN SPORTS EN 1
-#KODIPROP:inputstream.adaptive.license\_type=clearkey
-#KODIPROP:inputstream.adaptive.license\_key=f61b492872c33856940d6c756d146ac3:a1fb23a73fca88f85f475202d44bb53e
-https://ko.best-goal.live/tod.php?id=svc-spo-hd-20-dt](https://ko.best-goal.live/tod.php?id=svc-spo-hd-20-dt
-
-
-
-#EXTINF:-1 group-title="beIN" tvg-id="beIN SPORTS EN 2" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN\_SPORTS2\_ENGLISH\_Digital\_Mono.png](https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png)", beIN SPORTS EN 2
-#KODIPROP:inputstream.adaptive.license\_type=clearkey
-#KODIPROP:inputstream.adaptive.license\_key=b825c808bc7c3f7f95116c7d2159b35f:0eea8f8b80ea21bf169fc3d91bec1702
-https://ko.best-goal.live/tod.php?id=svc-spo-hd-21-dt](https://ko.best-goal.live/tod.php?id=svc-spo-hd-21-dt
-
-
-
-#EXTINF:-1 group-title="beIN" tvg-id="beIN SPORTS FR 1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN\_SPORTS1\_FRENCH\_Digital\_Mono.png](https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_FRENCH_Digital_Mono.png)", beIN SPORTS FR 1
-#KODIPROP:inputstream.adaptive.license\_type=clearkey
-#KODIPROP:inputstream.adaptive.license\_key=ed86547983bb3c26ad35071448db2cbe:b7f5dadfe1f5435742b82bdea80e8801
-https://ko.best-goal.live/tod.php?id=svc-spo-hd-22-dt](https://ko.best-goal.live/tod.php?id=svc-spo-hd-22-dt
-
-
-
-#EXTINF:-1 group-title="beIN" tvg-id="beIN SPORTS FR 2" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN\_SPORTS2\_FRENCH\_Digital\_Mono.png](https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_FRENCH_Digital_Mono.png)", beIN SPORTS FR 2
-#KODIPROP:inputstream.adaptive.license\_type=clearkey
-#KODIPROP:inputstream.adaptive.license\_key=68cf3663f95639ac9333eec94f38bc75:481b60942c617ee40d27b73b747a95d1
-https://ko.best-goal.live/tod.php?id=svc-spo-hd-23-dt](https://ko.best-goal.live/tod.php?id=svc-spo-hd-23-dt
-
-
-
-#EXTINF:-1 group-title="beIN" tvg-id="beIN SPORTS AFC" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-05.png](https://assets.bein.com/mena/sites/4/2022/03/bein.com-05.png)", beIN SPORTS AFC
-#KODIPROP:inputstream.adaptive.license\_type=clearkey
-#KODIPROP:inputstream.adaptive.license\_key=f6540dc09a283bb189b5806166eb3a12:93c04494177f6952ae4c7507d3b75bfa
-https://cdn-bein-prod-a-01.vos360.video/Content/Channel/svc-spo-hd-30-dt/DASH/playlist.mpd](https://cdn-bein-prod-a-01.vos360.video/Content/Channel/svc-spo-hd-30-dt/DASH/playlist.mpd)
-
-
-
-#EXTINF:-1 group-title="TOD" tvg-id="TOD 1" tvg-logo="https://imgs.search.brave.com/Ie49jdEV2guDnvGrjL38dmTbKA52aUHvlM-UA5FFdfk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbGF5/LWxo.png](https://www.google.com/search?q=https://imgs.search.brave.com/Ie49jdEV2guDnvGrjL38dmTbKA52aUHvlM-UA5FFdfk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbGF5/LWxo.png)", TOD 1
-#KODIPROP:inputstream.adaptive.license\_type=clearkey
-#KODIPROP:inputstream.adaptive.license\_key=85fc9454a2e93e6b9745f4c59bc3cebe:e3777a05782b22d3e3b26687c7a7cb83
-https://ko.best-goal.live/tod.php?id=svc-spo-hd-01-dt](https://ko.best-goal.live/tod.php?id=svc-spo-hd-01-dt
-
-
-
-#EXTINF:-1 group-title="TOD" tvg-id="TOD 3" tvg-logo="https://imgs.search.brave.com/Ie49jdEV2guDnvGrjL38dmTbKA52aUHvlM-UA5FFdfk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbGF5/LWxo.png](https://www.google.com/search?q=https://imgs.search.brave.com/Ie49jdEV2guDnvGrjL38dmTbKA52aUHvlM-UA5FFdfk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbGF5/LWxo.png)", TOD 3
-#KODIPROP:inputstream.adaptive.license\_type=clearkey
-#KODIPROP:inputstream.adaptive.license\_key=4058180d8e7732d3bc08784cde8f71ef:ce6db665cce84d24770d96913e323a98
-https://ko.best-goal.live/tod.php?id=svc-spo-hd-03-dt](https://ko.best-goal.live/tod.php?id=svc-spo-hd-03-dt
-
-
-
-#EXTINF:-1 group-title="TOD" tvg-id="TOD 4" tvg-logo="https://imgs.search.brave.com/Ie49jdEV2guDnvGrjL38dmTbKA52aUHvlM-UA5FFdfk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbGF5/LWxo.png](https://www.google.com/search?q=https://imgs.search.brave.com/Ie49jdEV2guDnvGrjL38dmTbKA52aUHvlM-UA5FFdfk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbGF5/LWxo.png)", TOD 4
-#KODIPROP:inputstream.adaptive.license\_type=clearkey
-#KODIPROP:inputstream.adaptive.license\_key=6832d7386e6a36ebb254c65d8787e71b:77d666d6fe866d87d20df092e3466a6b
-https://ko.best-goal.live/tod.php?id=svc-spo-hd-04-dt](https://ko.best-goal.live/tod.php?id=svc-spo-hd-04-dt
-
-
-
-#EXTINF:-1 group-title="TOD" tvg-id="TOD 5" tvg-logo="https://imgs.search.brave.com/Ie49jdEV2guDnvGrjL38dmTbKA52aUHvlM-UA5FFdfk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbGF5/LWxo.png](https://www.google.com/search?q=https://imgs.search.brave.com/Ie49jdEV2guDnvGrjL38dmTbKA52aUHvlM-UA5FFdfk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbGF5/LWxo.png)", TOD 5
-#KODIPROP:inputstream.adaptive.license\_type=clearkey
-#KODIPROP:inputstream.adaptive.license\_key=e244b992a3703e0185a9ed9c9ef9299d:5070395a1bc14c1f2db41085320c4b6e
-https://ko.best-goal.live/tod.php?id=svc-spo-hd-05-dt](https://ko.best-goal.live/tod.php?id=svc-spo-hd-05-dt
-
-
-
-#EXTINF:-1 group-title="TOD" tvg-id="TOD 6" tvg-logo="https://imgs.search.brave.com/Ie49jdEV2guDnvGrjL38dmTbKA52aUHvlM-UA5FFdfk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbGF5/LWxo.png](https://www.google.com/search?q=https://imgs.search.brave.com/Ie49jdEV2guDnvGrjL38dmTbKA52aUHvlM-UA5FFdfk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbGF5/LWxo.png)", TOD 6
-#KODIPROP:inputstream.adaptive.license\_type=clearkey
-#KODIPROP:inputstream.adaptive.license\_key=0f10140c91aa3c90b77f58a87cdc3eb5:9fd8e3de3ce94cc9285655e452f2abc1
-https://ko.best-goal.live/tod.php?id=svc-spo-hd-06-dt](https://ko.best-goal.live/tod.php?id=svc-spo-hd-06-dt
-
-
-
-#EXTINF:-1 group-title="TOD" tvg-id="TOD 7" tvg-logo="https://imgs.search.brave.com/Ie49jdEV2guDnvGrjL38dmTbKA52aUHvlM-UA5FFdfk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbGF5/LWxo.png](https://www.google.com/search?q=https://imgs.search.brave.com/Ie49jdEV2guDnvGrjL38dmTbKA52aUHvlM-UA5FFdfk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbGF5/LWxo.png)", TOD 7
-#KODIPROP:inputstream.adaptive.license\_type=clearkey
-#KODIPROP:inputstream.adaptive.license\_key=e488b74f7be936069836d0b02a3ccb96:f61daeba4625a509255fdd7b94a5e125
-https://ko.best-goal.live/tod.php?id=svc-spo-hd-07-dt](https://ko.best-goal.live/tod.php?id=svc-spo-hd-07-dt
+#EXTINF:-1 group-title="beIN" tvg-id="beIN 4K" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png", beIN 4K
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bfefc7feec543c11bbaadb221835a1e0:eca64d1d134a641f76376167c5bd5c3e
+https://live-hz-7.livepush.io/live/em79akQbx8sO3xlk/chunks.m3u8?nimblesessionid=11240214&session_id=4885607127232019
+
+#EXTINF:-1 group-title="beIN" tvg-id="beIN SPORTS 1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", beIN SPORTS 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f1dac2f937c9338f8e7c33963d06c489:8ab19f639fe1552c7463f4b978c41c9d
+https://ko.best-goal.live/tod.php?id=svc-spo-hd-08-dt
+
+#EXTINF:-1 group-title="beIN" tvg-id="beIN SPORTS 2" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png", beIN SPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=462b64d0595b3838b4d68eb0e6c59448:b4d30d1bfe81d4cffc52790bb6c5d979
+https://ko.best-goal.live/tod.php?id=svc-spo-hd-09-dt
+
+#EXTINF:-1 group-title="beIN" tvg-id="beIN SPORTS 3" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png", beIN SPORTS 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cac9184d65ce37898b410b025f3ad20a:e14cb7845b06283780efef93eb23eaf6
+https://ko.best-goal.live/tod.php?id=svc-spo-hd-10-dt
+
+#EXTINF:-1 group-title="beIN" tvg-id="beIN SPORTS 4" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png", beIN SPORTS 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=468db5e499dd3b1c9a3c5c9969e2aea8:1a5e0247aaefad74c5912064b64859e2
+https://ko.best-goal.live/tod.php?id=svc-spo-hd-11-dt
+
+#EXTINF:-1 group-title="beIN" tvg-id="beIN SPORTS 5" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png", beIN SPORTS 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4358b2e38e973281b6f6970e95cd13de:6c687cf562a83f6f611731b4646ff584
+https://ko.best-goal.live/tod.php?id=svc-spo-hd-12-dt
+
+#EXTINF:-1 group-title="beIN" tvg-id="beIN SPORTS 6" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono-d-1.png", beIN SPORTS 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44570b198707332caab56924d253ee25:d95efbc6594ef573a269b912e33b7f72
+https://ko.best-goal.live/tod.php?id=svc-spo-hd-13-dt
+
+#EXTINF:-1 group-title="beIN" tvg-id="beIN SPORTS 7" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png", beIN SPORTS 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=243258212d17399f9e04423b450e45ab:4d251bfc4fc1c305adc2c07594236253
+https://ko.best-goal.live/tod.php?id=svc-spo-hd-14-dt
+
+#EXTINF:-1 group-title="beIN" tvg-id="beIN SPORTS 8" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png", beIN SPORTS 8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa58e7eb3a4d36949c71ac3ef6e869d8:b799b788cf13c7bbba95426c94879f30
+https://ko.best-goal.live/tod.php?id=svc-spo-hd-15-dt
+
+#EXTINF:-1 group-title="beIN" tvg-id="beIN SPORTS 9" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png", beIN SPORTS 9
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=98eedea3e547368886168bb7f8d2e903:305670ff7b7495b093e761a5e550697d
+https://ko.best-goal.live/tod.php?id=svc-spo-hd-16-dt
+
+#EXTINF:-1 group-title="beIN" tvg-id="beIN SPORTS HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png", beIN SPORTS HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dece176768f639bcbaf97ebca9c74164:dd5f1f0bfe87b23eb94160af51671670
+https://moviball.gt.tc/channel.php?id=5003196
+
+#EXTINF:-1 group-title="beIN" tvg-id="beIN SPORTS News" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png", beIN SPORTS News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7faafe485db7395b9583222a3a6e789d:163906ba32dd3d611aad5789cbd00858
+https://moviball.wuaze.com/channel.php?id=5003197
+
+#EXTINF:-1 group-title="beIN" tvg-id="beIN SPORTS NBA" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NBA_DIGITAL_Mono.png", beIN SPORTS NBA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f64f7ec678853863bc60dc74d9834f14:4dceab60a7c4288484ea856f8c41f56b
+https://moviball.wuaze.com/channel.php?id=5003198
+
+#EXTINF:-1 group-title="beIN" tvg-id="beIN XTRA 1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png", beIN XTRA 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6cc4dd3a5497310ba2e34ceeacd1c19b:e9c5d24ea414d0a2a7100fc1fc36a387
+https://ko.best-goal.live/tod.php?id=svc-spo-hd-17-dt
+
+#EXTINF:-1 group-title="beIN" tvg-id="beIN XTRA 2" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png", beIN XTRA 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c800955c66bc3690af22486d2d5bce75:014ff13e55476109eeff11aaf5270f6a
+https://ko.best-goal.live/tod.php?id=svc-spo-hd-18-dt
+
+#EXTINF:-1 group-title="beIN" tvg-id="beIN XTRA 3" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTSXTRA3.png", beIN XTRA 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=70321d024ed533a38ab945a35411a765:ff7728dcdbe4bd28951d12f5cda9c4c6
+https://ko.best-goal.live/tod.php?id=svc-spo-hd-19-dt
+
+#EXTINF:-1 group-title="beIN" tvg-id="beIN XTRA 4" tvg-logo="https://assets.bein.com/mena/sites/4/2025/01/beIN_SPORTS_XTRA_04_bein.com_.png", beIN XTRA 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=78b56a88039036578006b72f8f24c5c2:a850e689377ca62a44c6b0cebf48606e
+https://tod.moviball.online/tod.php?id=svc-spo-hd-74-dt
+
+#EXTINF:-1 group-title="beIN" tvg-id="beIN XTRA 5" tvg-logo="https://assets.bein.com/mena/sites/4/2025/01/beIN_SPORTS_XTRA_05_bein.com_.png", beIN XTRA 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39f66081623d3208a466f85691d1b9ca:bfd245121f16618eb3a44ff4d3b349b1
+https://tod.moviball.online/tod.php?id=svc-spo-hd-72-dt
+
+#EXTINF:-1 group-title="beIN" tvg-id="beIN SPORTS EN 1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png", beIN SPORTS EN 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f61b492872c33856940d6c756d146ac3:a1fb23a73fca88f85f475202d44bb53e
+https://ko.best-goal.live/tod.php?id=svc-spo-hd-20-dt
+
+#EXTINF:-1 group-title="beIN" tvg-id="beIN SPORTS EN 2" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png", beIN SPORTS EN 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b825c808bc7c3f7f95116c7d2159b35f:0eea8f8b80ea21bf169fc3d91bec1702
+https://ko.best-goal.live/tod.php?id=svc-spo-hd-21-dt
+
+#EXTINF:-1 group-title="beIN" tvg-id="beIN SPORTS FR 1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_FRENCH_Digital_Mono.png", beIN SPORTS FR 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed86547983bb3c26ad35071448db2cbe:b7f5dadfe1f5435742b82bdea80e8801
+https://ko.best-goal.live/tod.php?id=svc-spo-hd-22-dt
+
+#EXTINF:-1 group-title="beIN" tvg-id="beIN SPORTS FR 2" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_FRENCH_Digital_Mono.png", beIN SPORTS FR 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=68cf3663f95639ac9333eec94f38bc75:481b60942c617ee40d27b73b747a95d1
+https://ko.best-goal.live/tod.php?id=svc-spo-hd-23-dt
+
+#EXTINF:-1 group-title="beIN" tvg-id="beIN SPORTS AFC" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-05.png", beIN SPORTS AFC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6540dc09a283bb189b5806166eb3a12:93c04494177f6952ae4c7507d3b75bfa
+https://cdn-bein-prod-a-01.vos360.video/Content/Channel/svc-spo-hd-30-dt/DASH/playlist.mpd
+
+#EXTINF:-1 group-title="TOD" tvg-id="TOD 1" tvg-logo="https://imgs.search.brave.com/Ie49jdEV2guDnvGrjL38dmTbKA52aUHvlM-UA5FFdfk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbGF5LWxo.png", TOD 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=85fc9454a2e93e6b9745f4c59bc3cebe:e3777a05782b22d3e3b26687c7a7cb83
+https://ko.best-goal.live/tod.php?id=svc-spo-hd-01-dt
+
+#EXTINF:-1 group-title="TOD" tvg-id="TOD 3" tvg-logo="https://imgs.search.brave.com/Ie49jdEV2guDnvGrjL38dmTbKA52aUHvlM-UA5FFdfk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbGF5LWxo.png", TOD 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4058180d8e7732d3bc08784cde8f71ef:ce6db665cce84d24770d96913e323a98
+https://ko.best-goal.live/tod.php?id=svc-spo-hd-03-dt
+
+#EXTINF:-1 group-title="TOD" tvg-id="TOD 4" tvg-logo="https://imgs.search.brave.com/Ie49jdEV2guDnvGrjL38dmTbKA52aUHvlM-UA5FFdfk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbGF5LWxo.png", TOD 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6832d7386e6a36ebb254c65d8787e71b:77d666d6fe866d87d20df092e3466a6b
+https://ko.best-goal.live/tod.php?id=svc-spo-hd-04-dt
+
+#EXTINF:-1 group-title="TOD" tvg-id="TOD 5" tvg-logo="https://imgs.search.brave.com/Ie49jdEV2guDnvGrjL38dmTbKA52aUHvlM-UA5FFdfk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbGF5LWxo.png", TOD 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e244b992a3703e0185a9ed9c9ef9299d:5070395a1bc14c1f2db41085320c4b6e
+https://ko.best-goal.live/tod.php?id=svc-spo-hd-05-dt
+
+#EXTINF:-1 group-title="TOD" tvg-id="TOD 6" tvg-logo="https://imgs.search.brave.com/Ie49jdEV2guDnvGrjL38dmTbKA52aUHvlM-UA5FFdfk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbGF5LWxo.png", TOD 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f10140c91aa3c90b77f58a87cdc3eb5:9fd8e3de3ce94cc9285655e452f2abc1
+https://ko.best-goal.live/tod.php?id=svc-spo-hd-06-dt
+
+#EXTINF:-1 group-title="TOD" tvg-id="TOD 7" tvg-logo="https://imgs.search.brave.com/Ie49jdEV2guDnvGrjL38dmTbKA52aUHvlM-UA5FFdfk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbGF5LWxo.png", TOD 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e488b74f7be936069836d0b02a3ccb96:f61daeba4625a509255fdd7b94a5e125
+https://ko.best-goal.live/tod.php?id=svc-spo-hd-07-dt
+```
