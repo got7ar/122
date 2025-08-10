@@ -1687,3 +1687,9 @@ https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2sp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"757dc8b42a29ccaf41186c9082c63020":"fe30cc6ba34beb2a91a82f248900fa5d","757dc8b42a29ccaf41186c9082c63010":"55492446a392d36a131af153dea9c17e"}
 https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasat4_hd_no_live/sm_viasat4_hd_no_live.isml/playlist.mpd
+
+
+#EXTINF:-1 group-title="SPORTS🏅" tvg-id="SSC 4k " tvg-logo="https://drm.search0.workers.dev/3:/M3U/SSC.png", SSC 4k 🇸🇦
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f1dac2f937c9338f8e7c33963d06c489:8ab19f639fe1552c7463f4b978c41c9d
+https://ko.best-goal.live/tod.php?id=svc-spo-hd-08-dt
