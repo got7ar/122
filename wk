@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/4V5v7Gf/Optus.png" group-title="OPTUS Sports", OPTUS Sport 01
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MdSn1aMrtjWxG7ySn3W8ug","***":"Lbjsn8wb8c67JggAu/9dHQ"}],"type":"temporary"}
