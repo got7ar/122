@@ -1692,7 +1692,7 @@ https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasa
 #EXTINF:-1 group-title="be-in" tvg-id="be-in SPORTS 1", be-in SPORTS 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f1dac2f937c9338f8e7c33963d06c489:8ab19f639fe1552c7463f4b978c41c9d
-https://ko.best-goal.live/tod_access.php?id=svc-spo-hd-08-dt
+https://todtv-live-spo-prod.akamaized.net/Content/Channel/svc-spo-hd-08-dt/DASH/hdntl=exp=1755359510~acl=*%2fContent%2fChannel%2fsvc-spo-hd-08-dt%2fDASH%2f*~id=f1b9f027-3426-4687-867f-efcf4387a06d~data=hdntl,aXA9MTkyLjI1MC4yMjkuMTYy~hmac=1a286398998eda615d6912c8736e3ad7a64907635d39d523466ecfaff440478e/playlist_ha.mpd?start=1755341700000&end=1755365400000
 
 #EXTINF:-1 group-title="be-in" tvg-id="be-in SPORTS 2", be-in SPORTS 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1910,9 +1910,15 @@ http://pamporea.xyz:8080/live/AN227436/F5bfP3499iuRxKmm7pb2HjDZKITFDj/8979.m3u8
 #EXTINF:-1 group-title="be-in" tvg-id="be-in SPORTS 1", be-in SPORTS 1111111
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f1dac2f937c9338f8e7c33963d06c489:8ab19f639fe1552c7463f4b978c41c9d
-https://ko.best-goal.live/tod_access.php?id=svc-spo-hd-08-dt
+https://todtv-live-spo-prod.akamaized.net/Content/Channel/svc-spo-hd-08-dt/DASH/hdntl=exp=1755359510~acl=*%2fContent%2fChannel%2fsvc-spo-hd-08-dt%2fDASH%2f*~id=f1b9f027-3426-4687-867f-efcf4387a06d~data=hdntl,aXA9MTkyLjI1MC4yMjkuMTYy~hmac=1a286398998eda615d6912c8736e3ad7a64907635d39d523466ecfaff440478e/playlist_ha.mpd?start=1755341700000&end=1755365400000
 
 #EXTINF:-1 group-title="be-in" tvg-id="be-in SPORTS 1", be-in SPORTS 2222
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f1dac2f937c9338f8e7c33963d06c489:8ab19f639fe1552c7463f4b978c41c9d
 https://todtv-live-spo-prod.akamaized.net/Content/Channel/svc-spo-hd-08-dt/DASH/playlist_ha.mpd
+
+
+#EXTINF:-1 group-title="be-in" tvg-id="be-in SPORTS 1", be-in SPORTS 665
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f1dac2f937c9338f8e7c33963d06c489:8ab19f639fe1552c7463f4b978c41c9d
+https://todtv-live-spo-prod.akamaized.net/Content/Channel/svc-spo-hd-08-dt/DASH/hdntl=exp=1755359510~acl=*%2fContent%2fChannel%2fsvc-spo-hd-08-dt%2fDASH%2f*~id=f1b9f027-3426-4687-867f-efcf4387a06d~data=hdntl,aXA9MTkyLjI1MC4yMjkuMTYy~hmac=1a286398998eda615d6912c8736e3ad7a64907635d39d523466ecfaff440478e/playlist_ha.mpd?start=1755341700000&end=1755365400000
