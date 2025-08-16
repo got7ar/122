@@ -1922,3 +1922,6 @@ https://todtv-live-spo-prod.akamaized.net/Content/Channel/svc-spo-hd-08-dt/DASH/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f1dac2f937c9338f8e7c33963d06c489:8ab19f639fe1552c7463f4b978c41c9d
 https://todtv-live-spo-prod.akamaized.net/Content/Channel/svc-spo-hd-08-dt/DASH/hdntl=exp=1755359510~acl=*%2fContent%2fChannel%2fsvc-spo-hd-08-dt%2fDASH%2f*~id=f1b9f027-3426-4687-867f-efcf4387a06d~data=hdntl,aXA9MTkyLjI1MC4yMjkuMTYy~hmac=1a286398998eda615d6912c8736e3ad7a64907635d39d523466ecfaff440478e/playlist_ha.mpd?start=1755341700000&end=1755365400000
+
+#EXTINF:-1 group-title="be-in" tvg-id="be-in SPORTS 1", be-in SPORTS 0220020202
+https://todtv-live-spo-prod.akamaized.net/Content/Channel/svc-spo-hd-08-dt/DASH/hdntl=exp=1755359510~acl=*%2fContent%2fChannel%2fsvc-spo-hd-08-dt%2fDASH%2f*~id=f1b9f027-3426-4687-867f-efcf4387a06d~data=hdntl,aXA9MTkyLjI1MC4yMjkuMTYy~hmac=1a286398998eda615d6912c8736e3ad7a64907635d39d523466ecfaff440478e/playlist_ha.mpd?start=1755341700000&end=1755365400000&ck=eyJmMWRhYzJmOTM3YzkzMzhmOGU3YzMzOTYzZDA2YzQ4OSI6IjhhYjE5ZjYzOWZlMTU1MmM3NDYzZjRiOTc4YzQxYzlkIn0%3D
