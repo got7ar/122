@@ -1911,3 +1911,8 @@ http://pamporea.xyz:8080/live/AN227436/F5bfP3499iuRxKmm7pb2HjDZKITFDj/8979.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f1dac2f937c9338f8e7c33963d06c489:8ab19f639fe1552c7463f4b978c41c9d
 https://ko.best-goal.live/tod_access.php?id=svc-spo-hd-08-dt
+
+#EXTINF:-1 group-title="be-in" tvg-id="be-in SPORTS 1", be-in SPORTS 2222
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f1dac2f937c9338f8e7c33963d06c489:8ab19f639fe1552c7463f4b978c41c9d
+https://todtv-live-spo-prod.akamaized.net/Content/Channel/svc-spo-hd-08-dt/DASH/playlist_ha.mpd
