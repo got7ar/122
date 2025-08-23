@@ -1927,17 +1927,21 @@ https://todtv-live-spo-prod.akamaized.net/Content/Channel/svc-spo-hd-08-dt/DASH/
 https://todtv-live-spo-prod.akamaized.net/Content/Channel/svc-spo-hd-08-dt/DASH/hdntl=exp=1755359510~acl=*%2fContent%2fChannel%2fsvc-spo-hd-08-dt%2fDASH%2f*~id=f1b9f027-3426-4687-867f-efcf4387a06d~data=hdntl,aXA9MTkyLjI1MC4yMjkuMTYy~hmac=1a286398998eda615d6912c8736e3ad7a64907635d39d523466ecfaff440478e/playlist_ha.mpd?start=1755341700000&end=1755365400000&ck=eyJmMWRhYzJmOTM3YzkzMzhmOGU3YzMzOTYzZDA2YzQ4OSI6IjhhYjE5ZjYzOWZlMTU1MmM3NDYzZjRiOTc4YzQxYzlkIn0%3D
 
 
+
 #EXTINF:-1 group-title="VIP Germany", SKYBUNDESUHD
-https://cors.jugorder.de/https://linear201-de-dash1-prd-ak.cdn12.skycdp.com/031121-50/index_stereo.mpd
+[https://cors.jugorder.de/https://linear201-de-dash1-prd-ak.cdn12.skycdp.com/031121-50/index_stereo.mpd](https://cors.jugorder.de/https://linear201-de-dash1-prd-ak.cdn12.skycdp.com/031121-50/index_stereo.mpd)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=000bae90050eb69303c736aa44feec31:5cb4e747538e2e234b51b4ef9ab248a4
+#KODIPROP:inputstream.adaptive.license_key=000b0e3422812fcf3d1eb8cdf7511193:1fe928a3793feb3739f293b0b1b81d1d
+
 
 #EXTINF:-1 group-title="VIP Germany", SKYPREMIER_DE
-https://cors.jugorder.de/https://linear202-de-dash1-prd-ak.cdn12.skycdp.com/036371-50/index_stereo.mpd
+[https://cors.jugorder.de/https://linear202-de-dash1-prd-ak.cdn12.skycdp.com/036371-50/index_stereo.mpd](https://cors.jugorder.de/https://linear202-de-dash1-prd-ak.cdn12.skycdp.com/036371-50/index_stereo.mpd)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=000bd7ca09c1d2ccdb12614b6a7525ed:79ddb65f0cf9bf112c501a1d0d3a62d6
+#KODIPROP:inputstream.adaptive.license_key=000b0e3422812fcf3d1eb8cdf7511193:1fe928a3793feb3739f293b0b1b81d1d
+
+
 
 #EXTINF:-1 group-title="VIP Germany", SKYTOPEVENT_DE
-https://cors.jugorder.de/https://linear202-de-dash1-prd-ak.cdn12.skycdp.com/035111-50/index_stereo.mpd
+[https://cors.jugorder.de/https://linear202-de-dash1-prd-ak.cdn12.skycdp.com/035111-50/index_stereo.mpd](https://cors.jugorder.de/https://linear202-de-dash1-prd-ak.cdn12.skycdp.com/035111-50/index_stereo.mpd)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=000b09ba46c7b52d430e825ce69a91bd:e71ffe9217bd6d5ce7656582977264f7
+#KODIPROP:inputstream.adaptive.license_key=000b0e3422812fcf3d1eb8cdf7511193:1fe928a3793feb3739f293b0b1b81d1d
