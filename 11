@@ -1957,3 +1957,8 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f1dac2f937c9338f8e7c33963d06c489:8ab19f639fe1552c7463f4b978c41c9d
 https://joaan-tv.com/bassam/tod_lives.php?id=svc-spo-hd-08-dt
+
+#EXTINF:-1 group-title="be-in" tvg-id="be-in SPORTS EN 1", be-in SPORTS EN 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f1dac2f937c9338f8e7c33963d06c489:8ab19f639fe1552c7463f4b978c41c9d
+https://todtv-live-spo-prod.akamaized.net/Content/Channel/svc-spo-hd-08-dt/DASH/playlist_ha.mpd?start=1756319474000&end=1756342800000&hdnts=st=1756326101~exp=1756326271~acl=*/Content/Channel/svc-spo-hd-08-dt/DASH/*~id=06801505-1039-490d-ab7b-d3a6c039fbea~data=aXA9MmEwMjo0NzgwOjY6MTg4NjowOjM3MmI6N2IzZDox~hmac=1408d521f4b5f6bd05aa4d2224f4cecc6370aec3dd82f45fe8fab56e6a907cc1
