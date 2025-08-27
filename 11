@@ -1951,3 +1951,9 @@ https://cors.jugorder.de/https://linear202-de-dash1-prd-ak.cdn12.skycdp.com/0351
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd
+
+
+#EXTINF:-1 group-title="be-in" tvg-id="be-in SPORTS EN 1", be-in SPORTS EN 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f1dac2f937c9338f8e7c33963d06c489:8ab19f639fe1552c7463f4b978c41c9d
+https://joaan-tv.com/bassam/tod_lives.php?id=svc-spo-hd-08-dt
