@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="thma sports" tvg-id="thma 1 sports" tvg-logo="https://n9.cl/th111", thma hd sports 🇸🇦
-https://alibaba.servers8.com/ch01/variant__video_hd.m3u8
-
 #EXTINF:-1 group-title="thma sports" tvg-id="thma 1 sports" tvg-logo="https://n9.cl/th111", thma 1 sports 🇸🇦
 https://alibaba.servers8.com/ch01/index.m3u8
 
