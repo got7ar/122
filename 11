@@ -12,6 +12,8 @@ https://alibaba.servers8.com/ch03/index.m3u8
 #EXTINF:-1 group-title="thma sports" tvg-id="thma 4 sports" tvg-logo="https://n9.cl/th111", thma 4 sports 🇸🇦
 https://alibaba.servers8.com/ch04/index.m3u8
 
+#EXTINF:-1 group-title="thma sports" tvg-id="thma 3 sports" tvg-logo="https://n9.cl/th111", thma 3 sports 🇸🇦
+https://alibaba.servers8.com/ch03/index.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS🏅" tvg-id="SSC 4k " tvg-logo="https://drm.search0.workers.dev/3:/M3U/SSC.png", SSC 4k 🇸🇦
