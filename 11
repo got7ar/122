@@ -2,9 +2,3 @@
 
 #EXTINF:-1 group-title="thma sports" tvg-id="thma 2 sports" tvg-logo="https://n9.cl/th111", alwan sports 🇸🇦
 https://hw-play-hls.jacocdn.com/live/5210987927240705_huawei.m3u8?biz=0&cip=2001%3A16a2%3Afdcc%3Acc00%3Aad5d%3Abc12%3A528e%3A84b8&hwSecret=9026f463b51b774514d83570c90c8eea1576c82ed7f4f9d2b5c0743fd2ba3dad&hwTime=694d3655&play_proto=hls&src=1&uid=1203223459146&vdr=0&sign=7973214f9ae6630cfd723a49e7f4b24f
-
-#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=360x480
-https://hw-play-hls.jacocdn.com/live/5210987927240705_huawei.m3u8?biz=0&cip=2001%3A16a2%3Afdcc%3Acc00%3Aad5d%3Abc12%3A528e%3A84b8&hwSecret=9026f463b51b774514d83570c90c8eea1576c82ed7f4f9d2b5c0743fd2ba3dad&hwTime=694d3655&play_proto=hls&src=1&uid=1203223459146&vdr=0&sign=7973214f9ae6630cfd723a49e7f4b24f
-
-#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=360x480
-https://hw-play-hls.jacocdn.com/live/5211359978782721_huawei.m3u8?biz=0&cip=2001%3A16a2%3Afdcc%3Acc00%3Aad5d%3Abc12%3A528e%3A84b8&hwSecret=41140680cdbf2336678d15a2dc66130d5e6bda7001ec07d1d5861c8ba542017f&hwTime=694d55df&play_proto=hls&src=1&uid=1203223488907&vdr=0&sign=220cc76ce603da7c522f41b26ecffff4
