@@ -1,0 +1,3 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=360x480
+http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/128848.m3u8
