@@ -1,59 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="thma sports" tvg-id="thma 2 sports" tvg-logo="https://n9.cl/th111", alwan sports 🇸🇦
-https://hw-play-hls.jacocdn.com/live/5210987927240705_huawei.m3u8?biz=0&cip=2001%3A16a2%3Afdcc%3Acc00%3Aad5d%3Abc12%3A528e%3A84b8&hwSecret=9026f463b51b774514d83570c90c8eea1576c82ed7f4f9d2b5c0743fd2ba3dad&hwTime=694d3655&play_proto=hls&src=1&uid=1203223459146&vdr=0&sign=7973214f9ae6630cfd723a49e7f4b24f
-
-#EXTINF:-1 group-title="thma sports" tvg-id="thma 2 sports" tvg-logo="https://n9.cl/th111", alwan sports 🇸🇦
-https://hw-play-hls.jacocdn.com/live/5210987927240705_huawei.m3u8?biz=0&cip=2001%3A16a2%3Afdcc%3Acc00%3Aad5d%3Abc12%3A528e%3A84b8&hwSecret=9026f463b51b774514d83570c90c8eea1576c82ed7f4f9d2b5c0743fd2ba3dad&hwTime=694d3655&play_proto=hls&src=1&uid=1203223459146&vdr=0&sign=7973214f9ae6630cfd723a49e7f4b24f
-
-#EXTINF:-1 group-title="thma sports" tvg-id="thma 2 sports" tvg-logo="https://n9.cl/th111", alwan sports 2 🇸🇦
-http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/128865.m3u8
-
-#EXTINF:-1 group-title="thma sports" tvg-id="thma 2 sports" tvg-logo="https://n9.cl/th111", alwan sports 3 🇸🇦
-http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/128866.m3u8
-
-#EXTINF:-1 group-title="thma sports" tvg-id="thma 2 sports" tvg-logo="https://n9.cl/th111", alwan sports 4 🇸🇦
-http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/128867.m3u8
-
-#EXTINF:-1 group-title="thma sports" tvg-id="thma 2 sports" tvg-logo="https://n9.cl/th111", alwan sports 2 🇸🇦
-http://asmr4k.world:8080/live/05524717366/3100957900/1034701.m3u8
-
-#EXTINF:-1 group-title="thma sports" tvg-id="thma 2 sports" tvg-logo="https://n9.cl/th111", 4k 1 🇸🇦
-http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/74061.m3u8
-
-#EXTINF:-1 group-title="thma sports" tvg-id="thma 2 sports" tvg-logo="https://n9.cl/th111", 4k 2 🇸🇦
-http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/122786.m3u8
-
-#EXTINF:-1 group-title="thma sports" tvg-id="thma 1 sports" tvg-logo="https://n9.cl/th111", thma 12423432 sports 🇸🇦
-https://alibaba.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJSc2k4Y3VlelR4U1NzM0VGUjRobVd1V2gyOVEyIiwiaXAiOiIzLjIzOC4xNDMuMjgiLCJpcF92NCI6IjMuMjM4LjE0My4yOCIsImlwX3Y2IjpudWxsLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xNV83KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTM5LjAuMC4wIFNhZmFyaS81MzcuMzYiLCJjaGFubmVsTmFtZSI6ImNoMTAiLCJuYmYiOjE3NTc3ODg4NzMsImV4cCI6MTc1Nzc5MjQ3MywiaWF0IjoxNzU3Nzg4ODczfQ.0okkgS-PXDuDRF-80l5kWwwqjzTZYjP0_LUo64vKdsQ/live/ch10/index.m3u8
-
-#EXTINF:-1 group-title="thma sports" tvg-id="thma 2 sports" tvg-logo="https://n9.cl/th111", thma 2 sports 🇸🇦
-https://alibaba.servers8.com/ch02/index.m3u8
-
-#EXTINF:-1 group-title="thma sports" tvg-id="thma 3 sports" tvg-logo="https://n9.cl/th111", thma 3 sports 🇸🇦
-https://alibaba.servers8.com/ch03/index.m3u8
-
-#EXTINF:-1 group-title="thma sports" tvg-id="thma 4 sports" tvg-logo="https://n9.cl/th111", thma 4 sports 🇸🇦
-https://alibaba.servers8.com/ch04/index.m3u8
-
-#EXTINF:-1 group-title="thma sports" tvg-id="thma 3 sports" tvg-logo="https://n9.cl/th111", thma 3 sports 🇸🇦
-https://alibaba.servers8.com/ch03/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 1
- 
-https://cdn.live.servers8.com/ch01/index.m3u8
- 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 2
- 
-https://cdn.live.servers8.com/ch02/index.m3u8
- 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 3
- 
-https://cdn.live.servers8.com/ch03/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",Thmanyah• 4
- 
-https://cdn.live.servers8.com/ch04/index.m3u8
+https://alibaba-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJSc2k4Y3VlelR4U1NzM0VGUjRobVd1V2gyOVEyIiwiY2hhbm5lbE5hbWUiOiJjaDAxIiwiaXAiOiIxMy4yMjEuMjA2Ljc5IiwiaXBfdjQiOiIxMy4yMjEuMjA2Ljc5IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xNV83KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTQwLjAuMC4wIFNhZmFyaS81MzcuMzYiLCJuYmYiOjE3NjEzMjU2OTEsImV4cCI6MTc2MTMzNjQ5MSwiaWF0IjoxNzYxMzI1NjkxfQ.-WiXVKPsRtR2usLkH6kz8DJFRutSs1asja9HI_Lh85Y/live/ch01/ll-index.m3u8?auth_key=1761325721-b9a2954d8be448ea90fb6253359f3eb6-0-eba90f7c0a251d7866aad40a85212588&CMCD=cid%3D%22c24a7dc9wnmirwgvue82ly42c%22%2Csf%3Dh%2Csid%3D%2248057e62-6d99-4e33-bd21-40bc0dd541e0%22%2Csn%3D1%2Cv%3D2
 
 
 #EXTINF:-1 group-title="SPORTS🏅" tvg-id="SSC 4k " tvg-logo="https://drm.search0.workers.dev/3:/M3U/SSC.png", SSC 4k 🇸🇦
