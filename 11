@@ -35,6 +35,11 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/pnu10tp36z/out/v1/91
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD229/index.mpd
 
+#EXTINF:-1 tvg-id="formula11300skysportf1" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 13:00 (Sk pl )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://bbb.exoadash.com/TVD233/index.mpd
+
 #EXTINF:-1 tvg-id="alhilalvsalittihad2000thmanyahfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Pro league 🇸🇦",Al-Hilal vs Al-Ittihad 20:00 (Thmanyah - FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
