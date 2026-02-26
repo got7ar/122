@@ -1,1 +1,10 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-id="skysportuno.it" group-title="Sport;MPD",Sky Sport Uno (MPD)
+https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportuno)/master_2hr-aac.mpd&key_id=1115ca7bae09bbf4364eba27291b88a1&key=a38624a3b373a79e810f3b20cc295096
+
+#EXTINF:-1 tvg-id="skysportuno.it" group-title="Sport;MPD",Sky Sport Uno (MPD)
+https://vepro.hocke.eu/proxy/https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportuno)/master_2hr-aac.mpd&key_id=1115ca7bae09bbf4364eba27291b88a1&key=a38624a3b373a79e810f3b20cc295096
+
+#EXTINF:-1 tvg-id="skysportuno.it" group-title="Sport;MPD",Sky Sport Uno (MPD)
+https://vepro.hocke.eu/proxy/https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportuno)/master_2hr-aac.mpd&key_id=1115ca7bae09bbf4364eba27291b88a1&key=a38624a3b373a79e810f3b20cc295096
