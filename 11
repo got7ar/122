@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Sport",V Sport Ultra HD SE
+http://jwxatuns.siauliairsavlt.pw/iptv/C9SB9TDVBHF53QEWEV82E3B9/19163/index.m3u8
+
+#EXTINF:-1 group-title="United Kingdom",TNT Sports 1 FHD UK
+http://jwxatuns.siauliairsavlt.pw/iptv/C9SB9TDVBHF53QEWEV82E3B9/2505/index.m3u8
+
+#EXTINF:-1 group-title="Sport",TNT Sports CL
+http://jwxatuns.siauliairsavlt.pw/iptv/C9SB9TDVBHF53QEWEV82E3B9/19052/index.m3u8
+
 #EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/tTkhjfYR/skiportevent.png",SKY SPORTS MAIN EVENT UK
 acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
 
