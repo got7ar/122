@@ -1,6 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="barcelonavsatlticomadrid2100premiersports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Copa del rey 🇪🇸",Barcelona vs Atlético Madrid 21:00 (PREMIER SPORTS)
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/-lW952CnOTHo6cMj1bJCHDFqnPJMJKcyRWLy36m2TH0Q_JPI-c5RYIDcZd8AG_7VqBq4D806pedZw-x2KHIf-g/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_delta.m3u8?type=live
+
+#EXTINF:-1 tvg-id="barcelonavsatlticomadrid2100premiersports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Copa del rey 🇪🇸",Barcelona vs Atlético Madrid 21:00 (PREMIER SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
 https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
