@@ -1,52 +1,56 @@
 #EXTM3U
 
-#EXTINF:-1,NOW财经台
-acestream://108.181.32.169:40363/641020d00004bf91985a212731011c3c
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"da683786846abc63eeeab88f7d30ec48":"00d223bb68ed721d65c67b36b991b218"}
+#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/cnn-active.svg" group-title="STARZ ON"  group-logo="https://mena-cdn-lb.aws.playco.com/prd-peg-data/default/images/logos/starzon/starzon-coloured-normal-website.png",CNN Headlines 🇦🇪
+https://ev-fast-mpd.starzplayarabia.com/live/eds/CNN_Fast/DASH/CNN_Fast.mpd
 
-#EXTINF:-1,NOW直播台
-acestream://108.181.32.169:40363/6417e77b0007feb1b6b9f4ca25bc6e04
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9fc4d9cef573b7143d5c45a707e80933":"962df2fcb360027a700bd3cde16aa565"}
+#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/fifaplus-active.svg" group-title="STARZ ON",FIFA+ 🇦🇪
+https://ev-fast-mpd.starzplayarabia.com/live/eds/FIFA/DASH/FIFA.mpd
 
-#EXTINF:-1,NOW新闻台
-acestream://108.181.32.169:40363/6410254c0006df63986ba60f292a7500
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a05a54bf469c6040a288477d0082ca65":"4344373c32a573e73a42eeab936a98a9"}
+#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/criclife1-active.svg" group-title="STARZ ON",Criclife 1 🇦🇪
+https://clife1-fast-mpd.starzplayarabia.com/out/v1/10e7636dc462468bad82dff50e6f06be/index.mpd
 
-#EXTINF:-1,Now体育英超
-acestream://108.181.32.169:40363/64b8f92b000089e02be334b114c32320
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"117c29396ec6fd295880013241a466e1":"3dfb883251884e66d784111877c44b13"}
+#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starzplaysports-active.svg" group-title="STARZ ON",STARZPLAY Sports 🇦🇪
+https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd
 
-#EXTINF:-1,Now plus
-acestream://108.181.32.169:40363/64b8f962000df4a32be40ef90d9f4afd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b253c726c24c7c94a3ddf9b1907e2c76":"097963d6ad73c3d712a104981de0ed42"}
+#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/adsportspremium1-active.svg" group-title="STARZ ON",Serie A - Abu Dhabi Sports 1 Premium 🇦🇪
+https://sps1.starzplayarabia.com/out/v1/56d8b44c7b9a4eaeae45bd9f5f509af5/index.mpd
 
-#EXTINF:-1,NOW体育台
-acestream://108.181.32.169:40363/6410211d00048968985b4de16d6e5b6a
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ee861edcd99093153a763a94b14c2c5a":"ab3991f6a7729ba1ea4bcdba0c1ae6c0"}
+#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/adsportspremium2-active.svg" group-title="STARZ ON",Serie A - Abu Dhabi Sports 2 Premium 🇦🇪
+https://sps2.starzplayarabia.com/out/v1/af6e929916584ab0823af2a08dddc090/index.mpd
 
-#EXTINF:-1,EPL Now Sports 英超4keng
-acestream://108.181.32.169:40363/64d74cf7000556f0223ed6366e5f689a
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f88a4bd31ed8999cc56a843690635970":"d481dd51e34364884356b61ee9a28d1c"}
+#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/adsportsasia1-active.svg" group-title="STARZ ON",AD Sports Asia 01 - Live Channel 🇦🇪
+https://adasia1.starzplayarabia.com/out/v1/3c0cb95505b14665996b96a9abf5f18c/index.mpd
 
-#EXTINF:-1,EPL Now Sports 英超1eng
-acestream://108.181.32.169:40363/64d74cb1000cc276223dc6ac654a2299
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5d11056867bf57007b2f019cd9be8b7c":"37c197927d1116ec4126e2249fe01362"}
+#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/adsports1-active.svg" group-title="STARZ ON",AbuDhabi Sports 01 - Live Channel 🇦🇪
+https://live-hw-stream.starzplayarabia.com/ADSports1/dash/drm/index.mpd
 
-#EXTINF:-1,EPL Now Sports 英超4k1粤语
-acestream://108.181.32.169:40363/64d74ca40007202e223d927267473868
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8f99c557fe19a3395bc4631d81ee6c36":"155f5a89e81d15590df326934632e6c7"}
+#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/adsports2-active.svg" group-title="STARZ ON",AbuDhabi Sports 02 - Live Channel 🇦🇪
+https://live-hw-stream.starzplayarabia.com/ADSports2/dash/drm/index.mpd
 
-#EXTINF:-1,EPL Now Sports 英超 粤语
-acestream://108.181.32.169:40363/64d74c1600083555223b68096e79387e
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"6f1ef25decf1a6e04c4c31de269d2866":"431ac90c38ca532cdadc1f439e2e71c6"}
+#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/yas-active.svg" group-title="STARZ ON",AbuDhabi Yas Sports - Live Channel 🇦🇪
+https://live-hw-stream.starzplayarabia.com/YASSHD/dash/drm/index.mpd
 
-#EXTINF:-1,Now体育1 Sports 1
-acestream://108.181.32.169:40363/643361f20007b9a9220fabfc3001244e
-
-#EXTINF:-1,Now体育2 Sports 2
-acestream://108.181.32.169:40363/643362090006b031221005903b883d07
-
-#EXTINF:-1,Now体育3 Sports 3
-acestream://108.181.32.169:40363/6433621d000d9c3522105573223958e1
-
-#EXTINF:-1,Now体育4 Sports 4
-acestream://108.181.32.169:40363/6437999f00025f983289265f38ef3722
-
-#EXTINF:-1,Now体育5 Sports 5
-acestream://108.181.32.169:40363/643799aa000e7bac3289547135e05a80
-
-#EXTINF:-1,Now体育6 Sports 6
-acestream://108.181.32.169:40363/643799bb00044f193289943e2e5f6ac1
-
-#EXTINF:-1,Now体育7 Sports 7
-acestream://108.181.32.169:40363/643799ca000a29a43289d0542d57262c
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d509f7efe7bd27ab72674c3a0cd2a2b4":"1c0a7bcc055f3c8416c09d9c279a761a"}
+#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/souadhosny-active.svg" group-title="STARZ ON",Souad Hosny - Live 🇦🇪
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Souad_Hosny/DASH/Souad_Hosny.mpd
