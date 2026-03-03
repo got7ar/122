@@ -1,52 +1,31 @@
 #EXTM3U
 
-#EXTINF:-1,NOW财经台
-acestream://108.181.32.169:40363/641020d00004bf91985a212731011c3c
+#EXTINF:-1 tvg-id="islvsisl1230fancodefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
-#EXTINF:-1,NOW直播台
-acestream://108.181.32.169:40363/6417e77b0007feb1b6b9f4ca25bc6e04
+#EXTINF:-1 tvg-id="islvsisl1230fancodeeng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  ENG )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3f379a3828ab48e2864c4f8354f65f37:ec8d76af37138053d1bc768f1caadbcd
+https://in-mc-flive.fancode.com/mumbai/140451_english_dash_36523_1drmta-di_h264/index.mpd
 
-#EXTINF:-1,NOW新闻台
-acestream://108.181.32.169:40363/6410254c0006df63986ba60f292a7500
+#EXTINF:-1 tvg-id="islvsisl1230fancodehin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  HIN )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f96759d5a3dc489b9102e7b5b5da1e59:dae7b7fc77b801f997e2615fe920e720
+https://in-mc-flive.fancode.com/mumbai/140451_hindi_dash_50965_1drmta-di_h264/index.mpd
 
-#EXTINF:-1,Now体育英超
-acestream://108.181.32.169:40363/64b8f92b000089e02be334b114c32320
+#EXTINF:-1 tvg-id="islvsisl1230fancodemal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  MAL )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be5e085f89e049d6a36bd069d75eea9b:70f500cfd2c6b387a6ca300ff098e89c
+https://in-mc-flive.fancode.com/mumbai/140451_malayalam_dash_48726_1drmta-di_h264/index.mpd
 
-#EXTINF:-1,Now plus
-acestream://108.181.32.169:40363/64b8f962000df4a32be40ef90d9f4afd
+#EXTINF:-1 tvg-id="islvsisl1230fancodeban" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  BAN )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00bbbf80633a4787825a351a33b47074:4ee670280bec978504ed4d0e7d66a7f5
+https://in-mc-flive.fancode.com/mumbai/140451_bengali_dash_22175_1drmta-di_h264/index.mpd
 
-#EXTINF:-1,NOW体育台
-acestream://108.181.32.169:40363/6410211d00048968985b4de16d6e5b6a
-
-#EXTINF:-1,EPL Now Sports 英超4keng
-acestream://108.181.32.169:40363/64d74cf7000556f0223ed6366e5f689a
-
-#EXTINF:-1,EPL Now Sports 英超1eng
-acestream://108.181.32.169:40363/64d74cb1000cc276223dc6ac654a2299
-
-#EXTINF:-1,EPL Now Sports 英超4k1粤语
-acestream://108.181.32.169:40363/64d74ca40007202e223d927267473868
-
-#EXTINF:-1,EPL Now Sports 英超 粤语
-acestream://108.181.32.169:40363/64d74c1600083555223b68096e79387e
-
-#EXTINF:-1,Now体育1 Sports 1
-acestream://108.181.32.169:40363/643361f20007b9a9220fabfc3001244e
-
-#EXTINF:-1,Now体育2 Sports 2
-acestream://108.181.32.169:40363/643362090006b031221005903b883d07
-
-#EXTINF:-1,Now体育3 Sports 3
-acestream://108.181.32.169:40363/6433621d000d9c3522105573223958e1
-
-#EXTINF:-1,Now体育4 Sports 4
-acestream://108.181.32.169:40363/6437999f00025f983289265f38ef3722
-
-#EXTINF:-1,Now体育5 Sports 5
-acestream://108.181.32.169:40363/643799aa000e7bac3289547135e05a80
-
-#EXTINF:-1,Now体育6 Sports 6
-acestream://108.181.32.169:40363/643799bb00044f193289943e2e5f6ac1
-
-#EXTINF:-1,Now体育7 Sports 7
-acestream://108.181.32.169:40363/643799ca000a29a43289d0542d57262c
+#EXTINF:-1 tvg-id="islvsisl1230fancodebd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  BD )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=63656dee0e10463790fed198470df50b:2388cacaf1b030a2dae50a063baa6ad7
+https://bd-mc-flive.fancode.com/delhi/140451_english_dash_38996_1drmta-di_h264/index.mpd
