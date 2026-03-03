@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN_sports_1_HD
+http://xcarscharge.pro:8080/bn14k/index.m3u8
+
 #EXTINF:-1, EPLBONGO 7
 http://fbzwubkr.leadcool.xyz:80/live/TTCFTQMJ/68B1J6XE/12646.m3u8
 
