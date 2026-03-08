@@ -21,6 +21,29 @@ https://ml-pull-hwc.myco.io/EPLBONGO9/hls/index.m3u8
 #EXTINF:-1, 110
 https://ml-pull-hwc.myco.io/EPLBONGO10/hls/index.m3u8
 
+#EXTINF:-1, thma 1
+https://bbb.exoadash.com/TVD1403/index.mpd
+
+#EXTINF:-1, thma 2
+https://bbb.exoadash.com/TVD1451/index.mpd
+
+#EXTINF:-1, thma 3
+https://bbb.exoadash.com/TVD6737/index.mpd
+
+#EXTINF:-1, skrpr1
+https://bbb.exoadash.com/TVD229/index.mpd
+
+#EXTINF:-1, skrtopeven
+https://bbb.exoadash.com/TVD215/index.mpd
+
+#EXTINF:-1, dzn
+https://bbb.exoadash.com/TVD232/index.mpd
+
+#EXTINF:-1, austr1
+https://bbb.exoadash.com/TVD233/index.mpd
+
+
+
 #EXTINF:-1 tvg-name="Shahid VIP 1 FHD" tvg-logo="http://tv.asc.vg/shahid.sport.png" group-title="BundsLigue ⚽ Shahid | VIP",Shahid VIP 1 FHD
 https://raid35.github.io/docs/player.html?id=shahid-sports-1
 #EXTINF:-1 tvg-name="Shahid VIP 2 FHD" tvg-logo="http://tv.asc.vg/shahid.sport.png" group-title="BundsLigue ⚽ Shahid | VIP",Shahid VIP 2 FHD
