@@ -21,3 +21,9 @@ https://ml-pull-hwc.myco.io/EPLBONGO9/hls/index.m3u8
 #EXTINF:-1, 110
 https://ml-pull-hwc.myco.io/EPLBONGO10/hls/index.m3u8
 
+#EXTINF:-1 tvg-name="Shahid VIP 1 FHD" tvg-logo="http://tv.asc.vg/shahid.sport.png" group-title="BundsLigue ⚽ Shahid | VIP",Shahid VIP 1 FHD
+https://raid35.github.io/docs/player.html?id=shahid-sports-1
+#EXTINF:-1 tvg-name="Shahid VIP 2 FHD" tvg-logo="http://tv.asc.vg/shahid.sport.png" group-title="BundsLigue ⚽ Shahid | VIP",Shahid VIP 2 FHD
+https://raid35.github.io/docs/player.html?id=shahid-sports-2
+#EXTINF:-1 tvg-name="Shahid VIP 3 FHD" tvg-logo="http://tv.asc.vg/shahid.sport.png" group-title="BundsLigue ⚽ Shahid | VIP",Shahid VIP 3 FHD
+https://raid35.github.io/docs/player.html?id=shahid-sports-3
