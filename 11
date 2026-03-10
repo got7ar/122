@@ -143,3 +143,11 @@ https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
 https://live.fptplay53.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG",  FPT Live 7
 https://live.fptplay53.net/live/media/su-kien-07/hls_avc_v6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.skyone.co.nz/mac/479214/DAM/01C33B16-1A04-4CB4.jpg?imdensity=3&impolicy=contentTileHorizontal&imwidth=286" group-title="SPORTS;LIGA INGGRIS",HUB PL 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
+https://starhub-307.tvsucker.workers.dev/bpk-tv/HubPremier1/output/manifest.mpd
