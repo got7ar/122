@@ -196,3 +196,8 @@ https://hls.iill.top/api/TNT-Sports-3/index.m3u8
 https://hls.iill.top/api/TNT-Sports-4/index.m3u8
 
 
+#EXTINF:-1 tvg-id="skysports1at" tvg-logo="https://cdn.aptoide.com/imgs/c/4/7/c47f3187ae8f955a18b130ba84a1f1f8_fgraphic.png" group-title="Sky Sport",Sky Sports 1 (AT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=32b74c0f2f6553f884ddaac24d8d5fa6:cf18c1ff1fdd422263c6d459374567a4,725d9e0d8544596a92de41d42f2dc2f9:de4e7e6d9bac3c2d72c58a3dbf732068
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://at-live-6.tentcdn.eu/bpk-tv/Sky_Sport_Austria_HD/default/index.mpd
