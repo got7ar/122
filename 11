@@ -151,3 +151,48 @@ https://live.fptplay53.net/live/media/su-kien-07/hls_avc_v6/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
 https://starhub-307.tvsucker.workers.dev/bpk-tv/HubPremier1/output/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-1.png" group-title="Sport" tvg-id="" tvg-name="", Hub Premier 1
+https://hls.iill.top/api/Hub-Premier-1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-2.png" group-title="Sport" tvg-id="" tvg-name="", Hub Premier 2
+https://hls.iill.top/api/Hub-Premier-2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-3.png" group-title="Sport" tvg-id="" tvg-name="", Hub Premier 3
+https://hls.iill.top/api/Hub-Premier-3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-4.png" group-title="Sport" tvg-id="" tvg-name="", Hub Premier 4
+https://hls.iill.top/api/Hub-Premier-4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-5.png" group-title="Sport" tvg-id="" tvg-name="", Hub Premier 5
+https://hls.iill.top/api/Hub-Premier-5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-6.png" group-title="Sport" tvg-id="" tvg-name="", Hub Premier 6
+https://hls.iill.top/api/Hub-Premier-6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-7.png" group-title="Sport" tvg-id="" tvg-name="", Hub Premier 7
+https://hls.iill.top/api/Hub-Premier-7/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-8.png" group-title="Sport" tvg-id="" tvg-name="", Hub Premier 8
+https://hls.iill.top/api/Hub-Premier-8/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Mix.png" group-title="Sport" tvg-id="" tvg-name="", Sky Sports Mix
+https://hls.iill.top/api/Sky-Sports-Mix/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Premier-League.png" group-title="Sport" tvg-id="" tvg-name="", Sky Sports Premier League
+https://hls.iill.top/api/Sky-Sports-EPL/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-1.png" group-title="Sport" tvg-id="TNT Sports 1 HD" tvg-name="TNT Sports 1 HD", TNT Sport 1
+https://hls.iill.top/api/TNT-Sports-1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-2.png" group-title="Sport" tvg-id="TNT Sports 2 HD" tvg-name="TNT Sports 2 HD", TNT Sport 2
+https://hls.iill.top/api/TNT-Sports-2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-3.png" group-title="Sport" tvg-id="TNT Sports 3 HD" tvg-name="TNT Sports 3 HD", TNT Sport 3
+https://hls.iill.top/api/TNT-Sports-3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-4.png" group-title="Sport" tvg-id="TNT Sports 4 HD" tvg-name="TNT Sports 4 HD", TNT Sport 4
+https://hls.iill.top/api/TNT-Sports-4/index.m3u8
+
+
