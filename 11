@@ -50,6 +50,31 @@ https://sky-nz.b-cdn.net/skysport9/master.mpd
 #KODIPROP:inputstream.adaptive.license_key=01d02c97d1c949f9877acd230dcaa56d:708410b8bf1f4e998931183e8fab5d1e
 https://sky-nz.b-cdn.net/skysportselect/master.mpd
 
+#EXTINF:-1 tvg-id="V sport 1 HD (N) (T)" tvg-logo="https://i.ibb.co.com/WsDcpQq/vsport1.png" group-title="SPORTS",  V Sport 1 🇳🇴
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a0e68f01a5428cbdb8cfac2080c66b20":"556d72c812df452fad9bed66292bfc63","a0e68f01a5428cbdb8cfac2080c66b10":"be7f9d1a00bbd0478335a4a48379157d"}
+https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport1_hd_live/sm_viasport1_hd_live.isml/playlist.mpd
+
+#EXTINF:-1 tvg-id="V sport 2 HD (N) (T)" tvg-logo="https://i.ibb.co.com/fxPGRt7/vsport2.png" group-title="SPORTS",  V Sport 2 🇳🇴
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key="b62aca5b566dc3ded74233192b28a120":"e8c5369c9c4aa58c1c8489c7db52db8c","b62aca5b566dc3ded74233192b28a110":"143bfe648cc9d14917d41e0662452771"}
+https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport2_hd_live/sm_viasport2_hd_live.isml/playlist.mpd
+
+#EXTINF:-1 tvg-id="V sport 3 HD (N) (T)" tvg-logo="https://i.ibb.co.com/X55jLTZ/vsport3.png" group-title="SPORTS",  V Sport 3 🇳🇴
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"10827657b810ae957f6adc178eca9c20":"3f73e8c9b64b2972bd25859efef7e5ac","10827657b810ae957f6adc178eca9c10":"ca8605499cbdc8e0d2f12898258f8f6e"}
+https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport3_hd_live/sm_viasport3_hd_live.isml/playlist.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/crWgv5z/vsportplus.png" group-title="SPORTS",  V Sport + 🇳🇴
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5ac608b8804cec0453314a751cdf5f20":"2bfed47e32b19e4ecf3f0692876e4ce5","5ac608b8804cec0453314a751cdf5f10":"a01e1090ee4a41d57dff74a8703e17cf"}
+https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport_pluss_hd_live/sm_viasport_pluss_hd_live.isml/playlist.mpd
+
+
 #EXTINF:-1, 101
 https://ml-pull-hwc.myco.io/EPLBONGO1/hls/index.m3u8
 #EXTINF:-1, 102
