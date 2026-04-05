@@ -378,3 +378,33 @@ https://dko29we9nm1rd.cloudfront.net/hls/CH624/index.m3u8
 https://dko29we9nm1rd.cloudfront.net/hls/CH625/index.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/NOWSPORTS.png" group-title="HK NOW SPORTS",Now Sports
 https://dko29we9nm1rd.cloudfront.net/hls/CH626/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYswMrLL/ezgif-46ce045552378f.png",TNT SPORTS 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hj5Vp0qz/ezgif-400947218a05a8.png",TNT SPORTS 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+##https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/A-TntSport2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY4Bvx2w/ezgif-45eb9b47a81dd2.png",TNT SPORTS 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBk5Z2Kr/ezgif-7a49975a91d4e960.png",TNT SPORTS 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
