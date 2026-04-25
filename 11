@@ -1,5 +1,18 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/10mmlha.png" Desc="Alkass 1", group-title="Sport",Alkass 1
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8w61kFX.png" Desc="Alkass 2", group-title="Sport",Alkass 2
+https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d57BdFh.png" Desc="Alkass 3", group-title="Sport",Alkass 3
+https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iDL65Wu.png" Desc="Alkass 4", group-title="Sport",Alkass 4
+https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6RGNGsM.png" Desc="Alkass 5", group-title="Sport",Alkass 5
+https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CrPSPSC.png" Desc="Alkass 6", group-title="Sport",Alkass 6
+https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/UNIVERSO_LOGO_color_black.png/330px-UNIVERSO_LOGO_color_black.png" group-title="SPORTS",UNIVERSO EAST
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
