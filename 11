@@ -1,17 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/10mmlha.png" Desc="Alkass 1", group-title="Sport",Alkass 1
-https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8w61kFX.png" Desc="Alkass 2", group-title="Sport",Alkass 2
-https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d57BdFh.png" Desc="Alkass 3", group-title="Sport",Alkass 3
-https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iDL65Wu.png" Desc="Alkass 4", group-title="Sport",Alkass 4
-https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6RGNGsM.png" Desc="Alkass 5", group-title="Sport",Alkass 5
-https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CrPSPSC.png" Desc="Alkass 6", group-title="Sport",Alkass 6
-https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
+#EXTINF:-1 tvg-id="formula11730skysportshd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 17:30 (SKY SPORTS HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6
+https://dice-live-oc.akamaized.net/hdntl=exp=1777737369~acl=%2f*~id=e866972a-196b-48e9-9909-c6532574404c~data=hdntl,aXA9MTcyLjIxNi4yNDguMTMmZXhwPTE3Nzc2NTA5OTgmZWlkPTkzNjY0MyZvaWQ9MTU0JnR5cGU9Vk9EJnVpZD14UlJxbzl8YmNhZWE3Y2YtYzMzNy00MDM5LTgxNTgtM2MxY2U0OWU3MjkzJmNpZD1kY2UuZmlzZmVkJnB0PW51bGw~hmac=f47d058466667781c6d14689e87cc84033ef507399d9367ebd4f61e3e23a00e6/dash/live/2093749/219026-314033/manifest-d.mpd
+
+#EXTINF:-1 tvg-id="formula11730skysportsuhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 17:30 (SKY SPORTS UHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d346b1d1ae64d4a800409cffa14983e:208c972bd2da4359ac94e6944fe378b6
+https://dice-live-oc.akamaized.net/hdntl=exp=1777737369~acl=%2f*~id=e866972a-196b-48e9-9909-c6532574404c~data=hdntl,aXA9MTcyLjIxNi4yNDguMTMmZXhwPTE3Nzc2NTA5OTgmZWlkPTkzNjY0MyZvaWQ9MTU0JnR5cGU9Vk9EJnVpZD14UlJxbzl8YmNhZWE3Y2YtYzMzNy00MDM5LTgxNTgtM2MxY2U0OWU3MjkzJmNpZD1kY2UuZmlzZmVkJnB0PW51bGw~hmac=f47d058466667781c6d14689e87cc84033ef507399d9367ebd4f61e3e23a00e6/dash/live/2093666/294921-318514/manifest-d.mpd
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/UNIVERSO_LOGO_color_black.png/330px-UNIVERSO_LOGO_color_black.png" group-title="SPORTS",UNIVERSO EAST
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -432,3 +431,9 @@ https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/5sxuux529k/out/v
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6RGNGsM.png" Desc="Alkass 5", group-title="Sport",Alkass 5
+https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CrPSPSC.png" Desc="Alkass 6", group-title="Sport",Alkass 6
+https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
