@@ -203,6 +203,9 @@ https://ml-pull-hwc.myco.io/EPLBONGO9/hls/index.m3u8
 #EXTINF:-1, 110
 https://ml-pull-hwc.myco.io/EPLBONGO10/hls/index.m3u8
 
+#EXTINF:-1, uhd1
+http://porn-hub.streamtv.to:8080/live/IpdafRUkSN/XSFfLYcjr6/131353.m3u8
+
 #EXTINF:-1, thma 1
 https://d1yi40sjj0ca0v.cloudfront.net/TVD1403/index.mpd
 
