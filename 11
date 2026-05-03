@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, 105
-http://185.141.26.88:8080/live/play/YWpsa01GYzNkREZNUVRWVWNrTnlNRUV3TDA5cU0wWmxaWHBFZFVKdU0zbDNVV2hqUVRWVFZFOHJTVDA9/907626
 
 #EXTINF:-1 tvg-id="arsenalvsfulham1730skysportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",SKY 8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
