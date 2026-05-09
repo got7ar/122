@@ -1,5 +1,38 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-id="formula11730skysportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 17:30 (SKY SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6
+https://dice-live-oc.akamaized.net/hdntl=exp=1777909489~acl=%2f*~id=b77eb585-70bb-4b92-824f-cbd87312047c~data=hdntl,aXA9MTA4LjE4MS4xLjI0MSZleHA9MTc3NzgyMzExOCZlaWQ9OTM2NjQzJm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=65d5d1abb802159ed195e8e88247316ef382ad1a555c76bb7f4e0c5732a73e72/dash/live/2093749/219026-314033/manifest-d.mpd
+
+#EXTINF:-1 tvg-id="formula11730skysports4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 17:30 (SKY SPORTS 4k)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d346b1d1ae64d4a800409cffa14983e:208c972bd2da4359ac94e6944fe378b6
+https://dice-live-oc.akamaized.net/hdntl=exp=1777909488~acl=%2f*~id=c4e7285a-4b85-4cf8-9113-5cf0fce56b08~data=hdntl,aXA9MTA4LjE4MS4xLjI0MSZleHA9MTc3NzgyMzExOCZlaWQ9OTM5MjI1Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=40072fb54ef71544d38ffffae7cb690792baf750f07976a0840b74a8ee2ed6b2/dash/live/2093666/294921-318514/manifest-d.mpd
+
+#EXTINF:-1 tvg-id="eplgoalrush1455skysportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",EPL Goal Rush 14:55 (SKY SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a2758575dc04d63acc3573ab594d441:47071dd80de746a38cdc6a4dcde21abc
+https://dice-live-oc.akamaized.net/hdntl=exp=1778407475~acl=%2f*~id=abb506c5-4e11-4f2a-8f4c-bc87e14db85a~data=hdntl,aXA9MjA4Ljg3LjI0Mi4yMyZleHA9MTc3ODMyMTEwNSZlaWQ9OTM2NDI0Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=06e99f1f8445fdc9f801ffe190da453128aff20c7541f4ab80fcdadfecb29663/dash/live/2093712/219035-321027/manifest-d.mpd
+
+#EXTINF:-1 tvg-id="sunderlandvsmanchesterunited1500skysportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Sunderland vs Manchester United 15:00 (SKY SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=72002c630e2343849984b5d3ec418162:ae6f8e3ff42a4963ae25686cca56c8e8
+https://dice-live-oc.akamaized.net/hdntl=exp=1778407462~acl=%2F*~id=423000a0-1695-41d7-aa77-effcb28cf910~data=hdntl,aXA9MjA4Ljg3LjI0Mi4yMyZleHA9MTc3ODMyMTA5MSZlaWQ9OTM5NTI0Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=ace41a93d54227c3e728f0def7adb2d816c79922baf3c1d6c6dd89c784d4c18f/dash/live/2093716/219036-321029/manifest-d.mpd
+
+
+#EXTINF:-1 tvg-id="manchestercityvsbrentford1730skysportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester City vs Brentford 17:30 (SKY SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a2758575dc04d63acc3573ab594d441:47071dd80de746a38cdc6a4dcde21abc
+https://dice-live-oc.akamaized.net/hdntl=exp=1778363892~acl=%2F*~id=2cd8004e-7ae0-43d1-9805-76bc88479344~data=hdntl,aXA9MTA4LjE4MS4zLjE0OSZleHA9MTc3ODI3NzUyMiZlaWQ9OTM5NjY2Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=917885330f3ece39a3194b2812ca7c0e8cc1c93bfcda87409969c0dd45a3c026/dash/live/2093712/219035-321027/manifest-d.mpd
+
+#EXTINF:-1 tvg-id="brightonvswolverhampton1500skysportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Brighton vs Wolverhampton 15:00 (SKY SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e2636daa74141b68cc14882ea3ff82b:0961f48287324adbb4b7ff3c9d82b3c9
+https://dice-live-oc.akamaized.net/hdntl=exp=1778407461~acl=%2F*~id=638a748f-951e-403b-aa3f-0f342172f46e~data=hdntl,aXA9MjA4Ljg3LjI0Mi4yMyZleHA9MTc3ODMyMTA5MCZlaWQ9OTM4NTQ3Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=7af817fc5df624e16b23f2334fdc33c97f490f3f076a4128d0cd8bcdd3d3481d/dash/live/2093717/219028-321030/manifest-d.mpd
+
+
 #EXTINF:-1,Sky Sports Premier League
 https://cdn-2.ttvb.eu.org/api/Sky-Sports-EPL/index.m3u8
 
