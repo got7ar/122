@@ -102,12 +102,6 @@ https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasp
 
 
 
-#EXTINF:-1, uhd1
-http://porn-hub.streamtv.to:8080/live/IpdafRUkSN/XSFfLYcjr6/131353.m3u8
-
-#EXTINF:-1, uhd2
-http://50.7.43.50:80/live/play/VEROMllYSlVUbVJNTjAxRVpsWjZja2w2UzNCSVJGVk9OMncxV0RNMFExWkVaRm93WldoUEswNXNVVDA9/1312008
-
 #EXTINF:-1, thma 1
 https://d1yi40sjj0ca0v.cloudfront.net/TVD1403/index.mpd
 
@@ -117,95 +111,11 @@ https://d1yi40sjj0ca0v.cloudfront.net/TVD1451/index.mpd
 #EXTINF:-1, thma 3
 https://d1yi40sjj0ca0v.cloudfront.net/TVD6737/index.mpd
 
-#EXTINF:-1, skrpr1
-https://d1yi40sjj0ca0v.cloudfront.net/TVD229/index.mpd
-
-#EXTINF:-1, skrtopeven
-https://d1yi40sjj0ca0v.cloudfront.net/TVD215/index.mpd
-
 #EXTINF:-1, dzn
 https://d1yi40sjj0ca0v.cloudfront.net/TVD232/index.mpd
 
 #EXTINF:-1, austr1
 https://d1yi40sjj0ca0v.cloudfront.net/TVD233/index.mpd
-
-
-
-#EXTINF:-1 tvg-name="Shahid VIP 1 FHD" tvg-logo="http://tv.asc.vg/shahid.sport.png" group-title="BundsLigue ⚽ Shahid | VIP",Shahid VIP 1 FHD
-https://raid35.github.io/docs/player.html?id=shahid-sports-1
-#EXTINF:-1 tvg-name="Shahid VIP 2 FHD" tvg-logo="http://tv.asc.vg/shahid.sport.png" group-title="BundsLigue ⚽ Shahid | VIP",Shahid VIP 2 FHD
-https://raid35.github.io/docs/player.html?id=shahid-sports-2
-#EXTINF:-1 tvg-name="Shahid VIP 3 FHD" tvg-logo="http://tv.asc.vg/shahid.sport.png" group-title="BundsLigue ⚽ Shahid | VIP",Shahid VIP 3 FHD
-https://raid35.github.io/docs/player.html?id=shahid-sports-3
-
-
-#EXTINF:-1 group-title="SỰ KIỆN FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", SỰ KIỆN 1
-https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", SỰ KIỆN 2
-https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", SỰ KIỆN 3
-https://live.fptplay53.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", SỰ KIỆN 4
-https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", SỰ KIỆN 5
-https://live.fptplay53.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", SỰ KIỆN 6
-https://live.fptplay53.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", SỰ KIỆN 7
-https://live.fptplay53.net/live/media/su-kien-07/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", SỰ KIỆN 8
-https://live.fptplay53.net/live/media/su-kien-08/hls_avc_v6/index.m3u8
-
-
-#EXTINF:-1 group-title="SỰ KIỆN FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", EVENT 1
-https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", EVENT 2
-https://live.fptplay53.net/live/media/event-02/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", EVENT 3
-https://live.fptplay53.net/live/media/event-03/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", EVENT 4
-https://live.fptplay53.net/live/media/event-04/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", EVENT 5
-https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", EVENT 6
-https://live.fptplay53.net/live/media/event-06/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", EVENT 7
-https://live.fptplay53.net/live/media/event-07/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", EVENT 8
-https://live.fptplay53.net/live/media/event-08/hls_avc_v6/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://images.skyone.co.nz/mac/479214/DAM/01C33B16-1A04-4CB4.jpg?imdensity=3&impolicy=contentTileHorizontal&imwidth=286" group-title="SPORTS;LIGA INGGRIS",HUB PL 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
-https://starhub-307.tvsucker.workers.dev/bpk-tv/HubPremier1/output/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-1.png" group-title="Sport" tvg-id="" tvg-name="", Hub Premier 1
-https://hls.iill.top/api/Hub-Premier-1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-2.png" group-title="Sport" tvg-id="" tvg-name="", Hub Premier 2
-https://hls.iill.top/api/Hub-Premier-2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-3.png" group-title="Sport" tvg-id="" tvg-name="", Hub Premier 3
-https://hls.iill.top/api/Hub-Premier-3/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-4.png" group-title="Sport" tvg-id="" tvg-name="", Hub Premier 4
-https://hls.iill.top/api/Hub-Premier-4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-5.png" group-title="Sport" tvg-id="" tvg-name="", Hub Premier 5
-https://hls.iill.top/api/Hub-Premier-5/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-6.png" group-title="Sport" tvg-id="" tvg-name="", Hub Premier 6
-https://hls.iill.top/api/Hub-Premier-6/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-7.png" group-title="Sport" tvg-id="" tvg-name="", Hub Premier 7
-https://hls.iill.top/api/Hub-Premier-7/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-8.png" group-title="Sport" tvg-id="" tvg-name="", Hub Premier 8
-https://hls.iill.top/api/Hub-Premier-8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Mix.png" group-title="Sport" tvg-id="" tvg-name="", Sky Sports Mix
 https://hls.iill.top/api/Sky-Sports-Mix/index.m3u8
