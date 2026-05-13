@@ -101,26 +101,6 @@ https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasp
 https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport_pluss_hd_live/sm_viasport_pluss_hd_live.isml/playlist.mpd
 
 
-#EXTINF:-1, 101
-https://ml-pull-hwc.myco.io/EPLBONGO1/hls/index.m3u8
-#EXTINF:-1, 102
-https://ml-pull-hwc.myco.io/EPLBONGO2/hls/index.m3u8
-#EXTINF:-1, 103
-https://ml-pull-hwc.myco.io/EPLBONGO3/hls/index.m3u8
-#EXTINF:-1, 104
-https://ml-pull-hwc.myco.io/EPLBONGO4/hls/index.m3u8
-#EXTINF:-1, 105
-https://ml-pull-hwc.myco.io/EPLBONGO5/hls/index.m3u8
-#EXTINF:-1, 106
-https://ml-pull-hwc.myco.io/EPLBONGO6/hls/index.m3u8
-#EXTINF:-1, 107
-https://ml-pull-hwc.myco.io/EPLBONGO7/hls/index.m3u8
-#EXTINF:-1, 108
-https://ml-pull-hwc.myco.io/EPLBONGO8/hls/index.m3u8
-#EXTINF:-1, 109
-https://ml-pull-hwc.myco.io/EPLBONGO9/hls/index.m3u8
-#EXTINF:-1, 110
-https://ml-pull-hwc.myco.io/EPLBONGO10/hls/index.m3u8
 
 #EXTINF:-1, uhd1
 http://porn-hub.streamtv.to:8080/live/IpdafRUkSN/XSFfLYcjr6/131353.m3u8
@@ -383,3 +363,26 @@ https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/pnu10tp36z/out/v
 https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CrPSPSC.png" Desc="Alkass 6", group-title="Sport",Alkass 6
 https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
+
+
+#EXTINF:-1, 101
+https://ml-pull-hwc.myco.io/EPLBONGO1/hls/index.m3u8
+#EXTINF:-1, 102
+https://ml-pull-hwc.myco.io/EPLBONGO2/hls/index.m3u8
+#EXTINF:-1, 103
+https://ml-pull-hwc.myco.io/EPLBONGO3/hls/index.m3u8
+#EXTINF:-1, 104
+https://ml-pull-hwc.myco.io/EPLBONGO4/hls/index.m3u8
+#EXTINF:-1, 105
+https://ml-pull-hwc.myco.io/EPLBONGO5/hls/index.m3u8
+#EXTINF:-1, 106
+https://ml-pull-hwc.myco.io/EPLBONGO6/hls/index.m3u8
+#EXTINF:-1, 107
+https://ml-pull-hwc.myco.io/EPLBONGO7/hls/index.m3u8
+#EXTINF:-1, 108
+https://ml-pull-hwc.myco.io/EPLBONGO8/hls/index.m3u8
+#EXTINF:-1, 109
+https://ml-pull-hwc.myco.io/EPLBONGO9/hls/index.m3u8
+#EXTINF:-1, 110
+https://ml-pull-hwc.myco.io/EPLBONGO10/hls/index.m3u8
+
