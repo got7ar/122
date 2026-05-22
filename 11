@@ -192,3 +192,52 @@ https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/pnu10tp36z/out/v
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/tnt_hd/default/index.mpd
+
+
+#EXTINF:-1 tvg-logo="https://www.yes.co.il/media/cwbnbjzc/55_5sport_white-new.png?quality=100" group-logo="https://play-lh.googleusercontent.com/8AgNls4adb1Wsp4ZxGGoaSecwbiBT1wmY1cgRLEwjhltrlS2lNcanpXLT_5IidJpbA=w240-h480-rw" group-title="yes+ Israel" tvg-id="ספורט 5",Sport 5 HD (55)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key={"c3b32b23081b5486ae5176da9c358808":"4708b352ee1d50ccdf94af9d2a952ed8"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/sport_5/live.livx?indexMode&amp;dvr=7200000
+
+#EXTINF:-1 tvg-logo="https://www.yes.co.il/media/fe4nfkhy/56_5plus_white-new.png?quality=100" group-title="yes+ Israel" tvg-id="ספורט 5 פלוס",Sport 5+ HD (56)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key={"b2148b62369126aee4ea1a6bdaea7ede":"ddafd3d32662550e624a81b8bfc4ed09"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/sport_5_plus/live.livx?indexMode&amp;dvr=7200000
+
+#EXTINF:-1 tvg-logo="https://www.yes.co.il/media/r1uldzru/57_5gold_white-new.png?quality=100" group-title="yes+ Israel" tvg-id="ספורט 5 גולד",Sport 5 Gold (57)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key={"bc8890f394376152b7570ac185a95536":"dbbd601df4236ea0f55e60d99dd70564"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/sport_5_gold/live.livx?indexMode&amp;dvr=7200000
+
+#EXTINF:-1 tvg-logo="https://www.yes.co.il/media/t3bhztnq/58_5live_white-new.png?quality=100" group-title="yes+ Israel" tvg-id="ספורט 5 פלוס לייב",Sport 5 Live HD (58)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key={"cc667cda2ff49c4500fdf1ad847d4fc0":"13a48dc2c1257fd9a119b448de5225f6"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/sport_5_live/live.livx?indexMode&amp;dvr=7200000
+
+#EXTINF:-1 tvg-logo="https://www.yes.co.il/media/nwnlscky/59_5stars_white-new.png?quality=100" group-title="yes+ Israel" tvg-id="sport5star",Sport 5 Stars HD (59)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key={"f788e107fecdf189b157766bc4db084e":"7f531e4eed5d07f5ae187c8807b40480"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/sport_5_starz/live.livx?indexMode&amp;dvr=7200000
+
+#EXTINF:-1 tvg-logo="https://www.yes.co.il/media/fl1kmdoo/60_5sport4k_white-new.png?quality=100" group-title="yes+ Israel" tvg-id="sport54k",Sport 5 4K
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key={"2798a0f1ea64fa1eade94a84d13bb32a":"884164e9518f12a13b7473798eebac4d"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/sport_5_4k/live.livx?indexMode&amp;dvr=7200000
+
+#EXTINF:-1 tvg-logo="https://www.yes.co.il/media/eytkbegf/one.png?quality=100" group-title="yes+ Israel" tvg-id="",ONE HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key={"3f9bd29c066a700e8b282c4a9dccf8eb":"6e3314a39d06af5553a16b8550f0691e"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/one_1/live.livx?indexMode&amp;dvr=7200000
+
+#EXTINF:-1 tvg-logo="https://www.yes.co.il/media/32md4sw1/one2.png?quality=100" group-title="yes+ Israel" tvg-id="",ONE2 HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key={"6f09c99d572d9c6d4d616521ee785460":"12893b12e80c3c5dbaf6b4994c8432c0"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/one_2/live.livx?indexMode&amp;dvr=7200000
