@@ -1,10 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXTINF:-1 tvg-id="indiavsafghanistan0900willowfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Cricket",India vs Afghanistan 09:00 (WILLOW FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=30a1847c675457eeb57a122fa2e57e60:9c794850892dac3f36c0f4f7032b3b8d
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bgnz4efyfv/out/v1/1188790dc6384302b1917ffc948b2e21/cenc.mpd
+#EXTINF:-1 tvg-id="indiavsafghanistan0900willowfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Cricket"111111
+#KODIPROP:inputstream.adaptive.license_key=3ddd6e312db73bcb8e40b38606b6c0db:ce32b826d74b5017ae9d4e5b26f0e9ee
+https://todtv-live-spo-prod.akamaized.net/hdntl=exp=1782000796~acl=*svc-spo-hd-25-dt*!*%2fad-north%2f*!*%2fad-west%2f*~id=f7485198-705d-4711-92f1-8fa632f0a7d1~data=hdntl,aXA9MTUxLjI0My44Ny4zNSxhdWQ9bWVuYQ~hmac=1392f99bc716f7132bc3dfc19ef8bdeeaad13d80573d047d57fa2082b7d33a88/Content/Channel/svc-spo-hd-25-dt/DASH/playlist_ha.mpd?start=1781977200000&end=1782000000000&live=true&eventid=df39b48a-9236-4492-9bf6-ea4f395c9e53&sessid=7bbe5351c68b439eadf4fdb453cf962d&assetid=5044374&uuid=f7485198-705d-4711-92f1-8fa632f0a7d1
 
 #EXTINF:-1 tvg-id="indiavsafghanistan0900tntsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Cricket",India vs Afghanistan 09:00 (TNT Sports FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
