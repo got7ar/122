@@ -1,3 +1,4 @@
+#EXTM3U
 
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" group-title="Sports" tvg-logo="https://poster.starhubgo.com/Linear_channels2/221_1920x1080_HTV.png",Hub Premier 1 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
