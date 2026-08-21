@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="1" tvg-name="TNT SPORTS 1" group-title="TNT Sports",4k4k4k 1
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2544265.m3u8
+
 #EXTINF:-1 tvg-id="1" tvg-name="TNT SPORTS 1" group-title="TNT Sports",TNT SPORTS 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
