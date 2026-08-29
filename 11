@@ -1,5 +1,45 @@
 #EXTM3U
 
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Tottenham%20Hotspur%20Vs%20Newcastle%20United.jpg" group-title="Football", Tottenham Hotspur Vs Newcastle United
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c387c5521edf61057dbdda6bcfa7b6d0:24738f6cc7f70b5c7bf94b2667ba35fc
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/u3yyxpyqxr/out/v1/63f0844e26d046ab88a2b07df145e87c/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Tottenham%20Hotspur%20Vs%20Newcastle%20United.jpg" group-title="Football", Tottenham Hotspur Vs Newcastle United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=015933a326952349df8ef22cf759c5ef:4743f8372cdc4c75fe0c0c3944a480c2
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nvdfvdzxqb/out/v1/eba6556387f248669c53a699caed2e90/cenc.mpd?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Tottenham%20Hotspur%20Vs%20Newcastle%20United.jpg" group-title="Football", Tottenham Hotspur Vs Newcastle United
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/55450/load-playlist?&.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Tottenham%20Hotspur%20Vs%20Newcastle%20United.jpg" group-title="Football", Tottenham Hotspur Vs Newcastle United
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5c05d9aa-55af-4d53-8e97-3f1cb99e5035/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Tottenham%20Hotspur%20Vs%20Newcastle%20United.jpg" group-title="Football", Tottenham Hotspur Vs Newcastle United
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://live4.ftlcbx.com/live/jr7owip8468fgq0_3af76d650e39bed100c104dda818a50b_540p.m3u8?auth_key=1788035605-0-0-259cd8ee98f4b7a3ee8e512bb4070e64?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Tottenham%20Hotspur%20Vs%20Newcastle%20United.jpg" group-title="Football", Tottenham Hotspur Vs Newcastle United
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://live4.ftlcbx.com/live/jr7owip8468fgq0_3af76d650e39bed100c104dda818a50b_1080p.m3u8?auth_key=1788035605-0-0-259cd8ee98f4b7a3ee8e512bb4070e64?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Tottenham%20Hotspur%20Vs%20Newcastle%20United.jpg" group-title="Football", Tottenham Hotspur Vs Newcastle United
+https://tmaxapp.site/8wirwjs76erftg/skysportspl.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Tottenham%20Hotspur%20Vs%20Newcastle%20United.jpg" group-title="Football", Tottenham Hotspur Vs Newcastle United
+https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Tottenham%20Hotspur%20Vs%20Newcastle%20United.jpg" group-title="Football", Tottenham Hotspur Vs Newcastle United
+https://tmaxapp.site/stan4s6c/stan1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Tottenham%20Hotspur%20Vs%20Newcastle%20United.jpg" group-title="Football", Tottenham Hotspur Vs Newcastle United
+http://c8.vfruitfairy.com/1637/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Liverpool%20FC%20Vs%20Nottingham%20Forest.jpg" group-title="Football", Liverpool FC Vs Nottingham Forest
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
