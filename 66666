@@ -1,36 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="1" tvg-name="nnn 1" group-title="nnn",nnn 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-https://cdn.stmify.com/peacock/stream/PREMIER_LEAGUE_TV/master.mpd
+https://cloudfront-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJSc2k4Y3VlelR4U1NzM0VGUjRobVd1V2gyOVEyIiwiY2hhbm5lbE5hbWUiOiJDSDExIiwiaXAiOiI5My4xMTIuMjQ0LjE2IiwiaXBfdjQiOiI5My4xMTIuMjQ0LjE2IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xNV83KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTU0LjAuMC4wIFNhZmFyaS81MzcuMzYiLCJoYXNTdWJzY3JpcHRpb25zIjpmYWxzZSwibmJmIjoxNzkxNjUxMDUxLCJleHAiOjE3OTE2OTc5MTEsImdlb0J5cGFzcyI6ZmFsc2UsImlhdCI6MTc5MTY1MTExMX0.wc6Xz3hlrrgiJza97Dj_S5smWKMX8g6KqoO_I9o9vsM/live/CH11/index.m3u8?aws.manifestfilter=video_codec%3Ah265%3Bvideo_dynamic_range%3Asdr%3Bvideo_framerate%3A50%3Bvideo_height%3A1-2160&auth_key=1791651141-a537d250352c47cb9d48598382d1c57f-0-f761ba1503f59e182c3d45448d76a2c6
 
-#EXTINF:-1 tvg-id="1" tvg-name="TNT SPORTS 1" group-title="TNT Sports",TNT SPORTS 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
-
-#EXTINF:-1 tvg-id="2" tvg-name="TNT SPORTS 2" group-title="TNT Sports",TNT SPORTS 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-
-#EXTINF:-1 tvg-id="3" tvg-name="TNT SPORTS 3" group-title="TNT Sports",TNT SPORTS 3
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
-
-#EXTINF:-1 tvg-id="4" tvg-name="TNT SPORTS 4" group-title="TNT Sports",TNT SPORTS 4
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
+#EXTINF:-1 tvg-id="1" tvg-name="nnn 1" group-title="nnn",nnn 1
+https://cloudfront-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJSc2k4Y3VlelR4U1NzM0VGUjRobVd1V2gyOVEyIiwiY2hhbm5lbE5hbWUiOiJDSDExIiwiaXAiOiI5My4xMTIuMjQ0LjE2IiwiaXBfdjQiOiI5My4xMTIuMjQ0LjE2IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xNV83KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTU0LjAuMC4wIFNhZmFyaS81MzcuMzYiLCJoYXNTdWJzY3JpcHRpb25zIjpmYWxzZSwibmJmIjoxNzkxNjUxMDUxLCJleHAiOjE3OTE2OTc5MTEsImdlb0J5cGFzcyI6ZmFsc2UsImlhdCI6MTc5MTY1MTExMX0.wc6Xz3hlrrgiJza97Dj_S5smWKMX8g6KqoO_I9o9vsM/live/CH11/index.m3u8?aws.manifestfilter=video_codec%3Ah265%3Bvideo_dynamic_range%3Asdr%3Bvideo_framerate%3A50%3Bvideo_height%3A1-2160
