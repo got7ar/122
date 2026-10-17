@@ -1,6 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/23sabog/Channel-Logo/refs/heads/main/Test%20Logo.png" group-title="Random Channel",Test 0
+https://pul-tenm.gkykp.com/live/hd-en-1-4558601.m3u8?txSecret=4510d964b717685e998201ce4520e777&txTime=6AD43F91
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/23sabog/Channel-Logo/refs/heads/main/Test%20Logo.png" group-title="Random Channel",Test 0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
