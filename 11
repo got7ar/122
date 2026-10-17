@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/23sabog/Channel-Logo/refs/heads/main/Test%20Logo.png" 1
+#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/10c94f16a2db4872b22d66aa3949bdc0.png" group-title="麒麟杯",厄瓜多尔 vs 巴拿马 0-1 [原声]
 https://pul-tenm.gkykp.com/live/hd-en-1-4558601.m3u8?txSecret=4510d964b717685e998201ce4520e777&txTime=6AD43F91
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/23sabog/Channel-Logo/refs/heads/main/Test%20Logo.png" group-title="Random Channel",Test 0
